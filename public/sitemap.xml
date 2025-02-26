@@ -2,58 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/articles/</loc>
+    <loc>https://example.org/tags/articles/</loc>
     <lastmod>2025-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://example.org/categories/</loc>
     <lastmod>2025-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://example.org/projects/</loc>
     <lastmod>2025-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/symposium-speech/</loc>
+    <loc>https://example.org/projects/symposium-speech/</loc>
     <lastmod>2025-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://example.org/tags/</loc>
     <lastmod>2025-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/writing-sample/</loc>
+    <loc>https://example.org/categories/writing-sample/</loc>
     <lastmod>2025-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hackathon/</loc>
+    <loc>https://example.org/tags/hackathon/</loc>
     <lastmod>2025-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/jerrimeter/</loc>
+    <loc>https://example.org/projects/jerrimeter/</loc>
     <lastmod>2025-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/personal-projects/</loc>
+    <loc>https://example.org/categories/personal-projects/</loc>
     <lastmod>2025-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://example.org/</loc>
     <lastmod>2025-01-30T03:36:57-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/analyzing-the-mariana-trench/</loc>
+    <loc>https://example.org/projects/analyzing-the-mariana-trench/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/applied-math/</loc>
+    <loc>https://example.org/tags/applied-math/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/class-project/</loc>
+    <loc>https://example.org/categories/class-project/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/trout-population-modeling/</loc>
+    <loc>https://example.org/projects/trout-population-modeling/</loc>
     <lastmod>2024-10-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/employment/</loc>
+    <loc>https://example.org/categories/employment/</loc>
     <lastmod>2024-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/cu-spur-rust/</loc>
+    <loc>https://example.org/projects/cu-spur-rust/</loc>
     <lastmod>2024-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/computer-science/</loc>
+    <loc>https://example.org/tags/computer-science/</loc>
     <lastmod>2024-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/music-merge/</loc>
+    <loc>https://example.org/projects/music-merge/</loc>
     <lastmod>2024-04-25T00:00:00+00:00</lastmod>
   </url>
 </urlset>

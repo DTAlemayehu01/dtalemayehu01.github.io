@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Employment on Daniel Alemayehu</title>
-    <link>http://localhost:1313/categories/employment/</link>
+    <link>https://example.org/categories/employment/</link>
     <description>Recent content in Employment on Daniel Alemayehu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Daniel Alemayehu</copyright>
-    <lastBuildDate>Tue, 02 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/employment/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/categories/employment/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Safer Scientific Computing In Rust</title>
-      <link>http://localhost:1313/projects/cu-spur-rust/</link>
+      <link>https://example.org/projects/cu-spur-rust/</link>
       <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/cu-spur-rust/</guid>
+      <guid>https://example.org/projects/cu-spur-rust/</guid>
       <description>&lt;p&gt;
 In the CU SPUR program I worked with Professor Jed Brown to investigate the capabilities of the Rust programming language in the field of Scientific Computation through analyzing rootfinding/optimization libraries in C, comparing them to the similar libraries in Rust, and then taking advantage of the FFI to combine the capabilities of current C libraries and the security and semantic clarity of Rust libraries.&lt;/p&gt;
 &lt;p&gt;

@@ -1,0 +1,21 @@
+{{ define "main" }}
+  <main>
+    {{ .Content }}
+
+    <div class="row">
+    {{ range (.Pages.ByDate).Reverse }}
+      <div class="column">
+        {{ if .Params.Cover }}
+          <a href="{{ .RelPermalink }}"><img src={{ .Params.Cover }} width="90%"></img></a>
+        {{ else }}
+          <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+          {{ .Content | strings.Truncate 450 }}
+          <a class="read-more button inline" href="{{ .RelPermalink }}">{{ $.Site.Params.ReadMore }}</a>
+        {{ end }}
+      </div>
+    {{ end }}
+    </div>
+
+    {{ template "_internal/pagination.html" . }}
+  </main>
+{{ end }}

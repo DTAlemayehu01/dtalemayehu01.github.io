@@ -1,0 +1,6 @@
+[submodule "themes/terminal"]
+	path = themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
+[submodule "static/icons"]
+	path = static/icons
+	url = https://github.com/edent/SuperTinyIcons.git

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Daniel Alemayehu</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Daniel Alemayehu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Daniel Alemayehu</copyright>
+    <lastBuildDate>Tue, 25 Feb 2025 02:41:28 -0700</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test3</title>
+      <link>http://localhost:1313/posts/test3/</link>
+      <pubDate>Tue, 25 Feb 2025 02:41:28 -0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/test3/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Title</title>
+      <link>http://localhost:1313/posts/test2/title/</link>
+      <pubDate>Mon, 24 Feb 2025 13:00:51 -0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/test2/title/</guid>
+      <description>&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-1&#34;&gt;
+My first post today! 
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+HELP, &lt;em&gt;HELP&lt;/em&gt;, &lt;strong&gt;help&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+Lovely!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+      <content>
+&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-1&#34;&gt;
+My first post today! 
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+HELP, &lt;em&gt;HELP&lt;/em&gt;, &lt;strong&gt;help&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+Lovely!&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/test1/my-first-post/</link>
+      <pubDate>Mon, 24 Feb 2025 12:47:41 -0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/test1/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
+&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+      <content>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
+&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+---
+title: "Jerrimeter"
+date: 2025-02-16
+draft: false
+cover: /images/jerrimeter.png
+categories:
+- Personal Projects
+tags:
+- Hackathon
+---
+* [[https://github.com/MatthewStuckenbruck/t9-hacks-2025][View Source Code and Documentation Here!]]
+In the 2025 T9-MediHacks me and a team of 4 others developed a password analyzer in 24 hours that measured the strength of an input string as a password, complete as a simple web-page that requires no hosting to run allowing any user to simply pick up and learn more about password security and information theory!
+
+This placed first in the cybersecurity track of the competition netting our team Raspberry Pis 4B kits!
+
+***** Technologies used: HTML, CSS, Javascript, Latex

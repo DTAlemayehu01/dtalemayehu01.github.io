@@ -1,0 +1,16 @@
+---
+title: "Trout Population Modeling"
+date: 2024-10-08
+draft: false
+params:
+  cover: /images/trout.png
+categories:
+- Class Project
+tags:
+- Applied Math
+---
+* [[https://github.com/DTAlemayehu01/APPM2360-Project1/][View Project Source Here!]]
+For our APPM 2360 class at CU Boulder, me and my partner modeled predicted trout populations in a pond from a given neighborhood in order to create an informed decision as to how to best stock the pond with fish to maximize the enjoyment from fishing in the pond any neighborhood participants may have. We modeled the trout in a variety of ways through MATLAB code and the modified Logistic Growth Equation for each trout spieces we analyzed.
+
+***** Technologies used: MATLAB, LATEX
+***** [[https://github.com/DTAlemayehu01/APPM2360-Project1/blob/main/project.pdf][Project Write Up]]

@@ -1,0 +1,15 @@
+---
+title: "Music Merge"
+date: 2024-04-25
+draft: false
+categories:
+- Class Project
+tags:
+- Computer Science
+---
+* [[https://github.com/CSCI-3308-Group-014-06-Final-Project/Music-Merge][View Source Code and Documentation Here!]]
+For the final project in CU Boulder's CSCI 3308 class me and a team of 5 others utilized the public Spotify API in order to help users manage their playlists better in a simple frontend. The Spotify app does have utilities to merge two playlists but we extend this functionality to multiple playlists and provide settings for users to set attributes for their next merged playlist.
+
+Additionally, our final project required us to deploy our service onto a webserver which was Azure for our team. However, due to Spotify's API limits the project is no longer publicly available however the source code is provided above for interested users to deploy themselves.
+
+***** Technologies used: Docker, NodeJS, Handlebars, PostgresSQL

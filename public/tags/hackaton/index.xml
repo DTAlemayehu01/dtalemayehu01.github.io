@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hackaton on Daniel Alemayehu</title>
+    <link>http://localhost:1313/tags/hackaton/</link>
+    <description>Recent content in Hackaton on Daniel Alemayehu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Daniel Alemayehu</copyright>
+    <lastBuildDate>Sun, 16 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/hackaton/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jerrimeter</title>
+      <link>http://localhost:1313/projects/jerrimeter/</link>
+      <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/jerrimeter/</guid>
+      <description>&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-1&#34;&gt;
+&lt;a href=&#34;https://github.com/MatthewStuckenbruck/t9-hacks-2025&#34;&gt;View Source Code and Documentation Here!&lt;/a&gt;
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;In the 2025 T9-MediHacks me and a team of 4 others developed a password analyzer in 24 hours that measured the strength of an input string as a password, complete as a simple web-page that requires no hosting to run allowing any user to simply pick up and learn more about password security and information theory!&lt;/p&gt;
+&lt;p&gt;
+This placed first in the cybersecurity track of the competition netting our team Raspberry Pis 4B kits!&lt;/p&gt;</description>
+      <content>
+&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-1&#34;&gt;
+&lt;a href=&#34;https://github.com/MatthewStuckenbruck/t9-hacks-2025&#34;&gt;View Source Code and Documentation Here!&lt;/a&gt;
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;In the 2025 T9-MediHacks me and a team of 4 others developed a password analyzer in 24 hours that measured the strength of an input string as a password, complete as a simple web-page that requires no hosting to run allowing any user to simply pick up and learn more about password security and information theory!&lt;/p&gt;
+&lt;p&gt;
+This placed first in the cybersecurity track of the competition netting our team Raspberry Pis 4B kits!&lt;/p&gt;
+&lt;div id=&#34;outline-container-headline-2&#34; class=&#34;outline-6&#34;&gt;
+&lt;h6 id=&#34;headline-2&#34;&gt;
+Technologies used: HTML, CSS, Javascript, Latex
+&lt;/h6&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,61 @@
++++
+date = '2025-01-30T03:36:57-08:00'
+draft = false
+title = 'The Home Page'
++++
+* Welcome!
+
+#+attr_html: :width 50% :height 50%
+[[/images/about_me_img.jpeg]]
+
+Hi! My name is Daniel Alemayehu and I am an undergraduate at the University of Colorado, Boulder studying Computer Science and Applied Mathematics. I'm currently exploring different ways I can apply my skills to expand domain knowledge and contribute to real world problems! My interests presently reside in computational and mathematical applications in the fields of physics, biology, machine learning, and quantum engineering.
+
+In my previous role as a Summer Undergraduate Researcher I explored Safer-Scientific Computation in Rust and explored the future of scientific computation both within Rust and its ecosystem and through Rust FFI interactions with C libraries. In that same role I also presentations with my coworker regarding the applications of Rust in scientific computation. I am also well versed in a variety of other languages like Python and Javascript and a variety of developer platforms like Linux and Git.
+
+In my free time I have a variety of activities I enjoy! I try to stay active with Taekwondo and Snowboarding! I also like engaging with all sorts of media (books, TV, video games, music) and like to reflect on the experiences from playing them by writing and talking about them!
+
+Below I have some information about my primary system and my dotfiles are linked [[https://github.com/DTAlemayehu01/dotfiles][here]]!
+
+* My System
+#+begin_src
+                  -`                     danny@DanielsLaptop
+                 .o+`                    -------------------
+                `ooo/                    OS: Arch Linux x86_64
+               `+oooo:                   Host: ASUS TUF Gaming A15 FA507RE_FA507RE (1.0)
+              `+oooooo:                  Kernel: Linux
+              -+oooooo+:                 Uptime: Several Days
+            `/:-:++oooo+:                Packages: 1848 (pacman), 25 (flatpak)
+           `/++++/+++++++:               Shell: bash
+          `/++++++++++++++:              Display (CMN153C): 1920x1080 @ 144 Hz in 15" [Built-in]
+         `/+++ooooooooooooo/`            WM: Hyprland
+        ./ooosssso++osssssso+`           Theme: Dracula [GTK2/3]
+       .oossssso-````/ossssss+`          Icons: Tela-circle-dracula-dark [GTK2/3]
+      -osssssso.      :ssssssso.         Font: DroidSansM Nerd Font (12pt) [GTK2/3]
+     :osssssss/        osssso+++.        Cursor: Dracula
+    /ossssssss/        +ssssooo/-        Terminal: alacritty
+  `/ossssso+/:-        -:/+osssso+-      Terminal Font: Source Code Pro (11pt)
+ `+sso+:-`                 `.-/+oso:     CPU: AMD Ryzen 7 6800H (16) @ 4.79 GHz
+`++:.                           `-/+/    GPU: AMD Radeon 680M [Integrated]
+.`                                 `/    Memory: 14.87 GiB
+                                         Swap: 600.00 MiB
+                                         Disk (/): 467.52 GiB - ext4
+                                         Local IP (wlan0): 10.100.10.100/10
+                                         Battery (A32-K55): 100%
+                                         Locale: en_US.UTF-8
+
+#+end_src
+
+* Other Tools
+/*Hyprland*/:
+- *Rofi*: Application Launcher
+- *Waybar*: Status Bar
+/*Coding and Writing*/:
+- *Neovim*: Primary Latex Editor (Vim-VimTeX + UtiliSnips) and Light Code Editing
+- *Doom Emacs*: Note Taking, Journaling, and IDE Code Editing
+- *VSCodium*: Primary Jupyter Notebooks Editor
+/*Extra Software I Like*/:
+- *LibreWolf*: A privacy focused fork of Firefox
+- *Xournal++*: Handwritten Notetaking and Scratch Work
+- *Pass*: Simplistic Terminal Password Manager
+- *Localsend*: Cross-Plaform Alternative to AirDrop
+- *Calibre*: E-Book Manager

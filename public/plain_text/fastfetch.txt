@@ -1,0 +1,45 @@
+                  -`
+                 .o+`
+                `ooo/
+               `+oooo:
+              `+oooooo:
+              -+oooooo+:
+            `/:-:++oooo+:
+           `/++++/+++++++:
+          `/++++++++++++++:
+         `/+++ooooooooooooo/`
+        ./ooosssso++osssssso+`
+       .oossssso-````/ossssss+`
+      -osssssso.      :ssssssso.
+     :osssssss/        osssso+++.
+    /ossssssss/        +ssssooo/-
+  `/ossssso+/:-        -:/+osssso+-
+ `+sso+:-`                 `.-/+oso:
+`++:.                           `-/+/
+.`                                 `/[1G[18A[41Cdanny@DanielsLaptop
+[41C-------------------
+[41COS: Arch Linux x86_64
+[41CHost: ASUS TUF Gaming A15 FA507RE_FA507RE (1.0)
+[41CKernel: Linux 6.13.1-arch2-1
+[41CUptime: 40 mins
+[41CPackages: 1848 (pacman), 25 (flatpak)
+[41CShell: bash 5.2.37
+[41CDisplay (CMN153C): 1920x1080 @ 144 Hz in 15" [Built-in]
+[41CWM: Hyprland 0.47.2 (Wayland)
+[41CTheme: Dracula [GTK2/3]
+[41CIcons: Tela-circle-dracula-dark [GTK2/3]
+[41CFont: DroidSansM Nerd Font (12pt) [GTK2/3]
+[41CCursor: Dracula
+[41CTerminal: alacritty 0.15.0
+[41CTerminal Font: Source Code Pro (11pt)
+[41CCPU: AMD Ryzen 7 6800H (16) @ 4.79 GHz
+[41CGPU: AMD Radeon 680M [Integrated]
+[41CMemory: 3.54 GiB / 14.87 GiB (24%)
+[41CSwap: 0 B / 600.00 MiB (0%)
+[41CDisk (/): 421.52 GiB / 467.52 GiB (90%) - ext4
+[41CLocal IP (wlan0): 10.201.33.172/22
+[41CBattery (A32-K55): 81% [Charging, AC Connected]
+[41CLocale: en_US.UTF-8
+[41C
+[41C[40m   [41m   [42m   [43m   [44m   [45m   [46m   [47m   [m
+[41C[5m[100m   [101m   [102m   [103m   [104m   [105m   [106m   [107m   [m

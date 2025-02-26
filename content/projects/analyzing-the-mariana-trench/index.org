@@ -1,0 +1,16 @@
+---
+title: "Analyzing the Mariana Trench"
+date: 2024-11-13
+draft: false
+params:
+  cover: /images/trench.png
+categories:
+- Class Project
+tags:
+- Applied Math
+---
+* [[https://github.com/DTAlemayehu01/APPM2360-Project2][View Project Source Here!]]
+For our APPM 2360 class at CU Boulder, me and two partners studied the Incomplete SVD and how it can be used to take complex data sets and make it easier to study by reducing the amount of memory used to represent that data. We also studied different sizes of Incomplete SVDs and the tradeoffs in data resolution as we increased the number of eigenvalues used in our Incomplete SVD.
+
+***** Technologies used: MATLAB, LATEX
+***** [[https://github.com/DTAlemayehu01/APPM2360-Project2/blob/main/report/project.pdf][Project Write Up]]

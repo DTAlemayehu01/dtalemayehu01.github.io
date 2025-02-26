@@ -1,0 +1,24 @@
+                  -`                     danny@DanielsLaptop
+                 .o+`                    -------------------
+                `ooo/                    OS: Arch Linux x86_64
+               `+oooo:                   Host: ASUS TUF Gaming A15 FA507RE_FA507RE (1.0)
+              `+oooooo:                  Kernel: Linux 6.13.1-arch2-1
+              -+oooooo+:                 Uptime: 46 mins
+            `/:-:++oooo+:                Packages: 1848 (pacman), 25 (flatpak)
+           `/++++/+++++++:               Shell: bash 5.2.37
+          `/++++++++++++++:              Display (CMN153C): 1920x1080 @ 144 Hz in 15" [Built-in]
+         `/+++ooooooooooooo/`            WM: Hyprland 0.47.2 (Wayland)
+        ./ooosssso++osssssso+`           Theme: Dracula [GTK2/3]
+       .oossssso-````/ossssss+`          Icons: Tela-circle-dracula-dark [GTK2/3]
+      -osssssso.      :ssssssso.         Font: DroidSansM Nerd Font (12pt) [GTK2/3]
+     :osssssss/        osssso+++.        Cursor: Dracula
+    /ossssssss/        +ssssooo/-        Terminal: alacritty 0.15.0
+  `/ossssso+/:-        -:/+osssso+-      Terminal Font: Source Code Pro (11pt)
+ `+sso+:-`                 `.-/+oso:     CPU: AMD Ryzen 7 6800H (16) @ 4.79 GHz
+`++:.                           `-/+/    GPU: AMD Radeon 680M [Integrated]
+.`                                 `/    Memory: 3.37 GiB / 14.87 GiB (23%)
+                                         Swap: 0 B / 600.00 MiB (0%)
+                                         Disk (/): 421.52 GiB / 467.52 GiB (90%) - ext4
+                                         Local IP (wlan0): 10.201.33.172/22
+                                         Battery (A32-K55): 88% [Charging, AC Connected]
+                                         Locale: en_US.UTF-8

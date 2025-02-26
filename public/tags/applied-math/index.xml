@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Applied Math on Daniel Alemayehu</title>
+    <link>http://localhost:1313/tags/applied-math/</link>
+    <description>Recent content in Applied Math on Daniel Alemayehu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Daniel Alemayehu</copyright>
+    <lastBuildDate>Wed, 13 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/applied-math/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analyzing the Mariana Trench</title>
+      <link>http://localhost:1313/projects/analyzing-the-mariana-trench/</link>
+      <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/analyzing-the-mariana-trench/</guid>
+      <description>&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-1&#34;&gt;
+&lt;a href=&#34;https://github.com/DTAlemayehu01/APPM2360-Project2&#34;&gt;View Project Source Here!&lt;/a&gt;
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;For our APPM 2360 class at CU Boulder, me and two partners studied the Incomplete SVD and how it can be used to take complex data sets and make it easier to study by reducing the amount of memory used to represent that data. We also studied different sizes of Incomplete SVDs and the tradeoffs in data resolution as we increased the number of eigenvalues used in our Incomplete SVD.&lt;/p&gt;</description>
+      <content>
+&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-1&#34;&gt;
+&lt;a href=&#34;https://github.com/DTAlemayehu01/APPM2360-Project2&#34;&gt;View Project Source Here!&lt;/a&gt;
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;For our APPM 2360 class at CU Boulder, me and two partners studied the Incomplete SVD and how it can be used to take complex data sets and make it easier to study by reducing the amount of memory used to represent that data. We also studied different sizes of Incomplete SVDs and the tradeoffs in data resolution as we increased the number of eigenvalues used in our Incomplete SVD.&lt;/p&gt;
+&lt;div id=&#34;outline-container-headline-2&#34; class=&#34;outline-6&#34;&gt;
+&lt;h6 id=&#34;headline-2&#34;&gt;
+Technologies used: MATLAB, LATEX
+&lt;/h6&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-3&#34; class=&#34;outline-6&#34;&gt;
+&lt;h6 id=&#34;headline-3&#34;&gt;
+&lt;a href=&#34;https://github.com/DTAlemayehu01/APPM2360-Project2/blob/main/report/project.pdf&#34;&gt;Project Write Up&lt;/a&gt;
+&lt;/h6&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Trout Population Modeling</title>
+      <link>http://localhost:1313/projects/trout-population-modeling/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/trout-population-modeling/</guid>
+      <description>&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-1&#34;&gt;
+&lt;a href=&#34;https://github.com/DTAlemayehu01/APPM2360-Project1/&#34;&gt;View Project Source Here!&lt;/a&gt;
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;For our APPM 2360 class at CU Boulder, me and my partner modeled predicted trout populations in a pond from a given neighborhood in order to create an informed decision as to how to best stock the pond with fish to maximize the enjoyment from fishing in the pond any neighborhood participants may have. We modeled the trout in a variety of ways through MATLAB code and the modified Logistic Growth Equation for each trout spieces we analyzed.&lt;/p&gt;</description>
+      <content>
+&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-1&#34;&gt;
+&lt;a href=&#34;https://github.com/DTAlemayehu01/APPM2360-Project1/&#34;&gt;View Project Source Here!&lt;/a&gt;
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;For our APPM 2360 class at CU Boulder, me and my partner modeled predicted trout populations in a pond from a given neighborhood in order to create an informed decision as to how to best stock the pond with fish to maximize the enjoyment from fishing in the pond any neighborhood participants may have. We modeled the trout in a variety of ways through MATLAB code and the modified Logistic Growth Equation for each trout spieces we analyzed.&lt;/p&gt;
+&lt;div id=&#34;outline-container-headline-2&#34; class=&#34;outline-6&#34;&gt;
+&lt;h6 id=&#34;headline-2&#34;&gt;
+Technologies used: MATLAB, LATEX
+&lt;/h6&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-3&#34; class=&#34;outline-6&#34;&gt;
+&lt;h6 id=&#34;headline-3&#34;&gt;
+&lt;a href=&#34;https://github.com/DTAlemayehu01/APPM2360-Project1/blob/main/project.pdf&#34;&gt;Project Write Up&lt;/a&gt;
+&lt;/h6&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

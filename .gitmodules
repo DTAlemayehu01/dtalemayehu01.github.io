@@ -4,3 +4,6 @@
 [submodule "static/icons"]
 	path = static/icons
 	url = https://github.com/edent/SuperTinyIcons.git
+[submodule "public/icons"]
+	path = public/icons
+	url = https://github.com/edent/SuperTinyIcons.git

@@ -1,0 +1,32 @@
+---
+title: "CEM Fall 2024 Article"
+date: 2025-02-27T17:46:32-07:00
+draft: true
+categories:
+- Writing Sample
+tags:
+- Articles
+---
+* Preface
+I wrote this article for the Fall 2024 edition of the Colorado Engineering Magazine which focused on future technologies and possible futures available with current technologies. In alignment with this I wrote about the Fediverse and how it could serve as a future platform for social interaction that goes beyond traditional social media (Youtube, Snapchat, Instagram, Etc.).
+
+Below is a transcript of the article.
+
+* The Fediverse, and The Future of Social Connection
+“Platform decay” is the phrase social media users have used to describe the progression of social platforms over time. Cory Doctorow, the Electronic Frontier Foundation Special Advisor,  writes about the degenerating state of the company sponsored platforms like Twitter, Instagram, and Snapchat from originally serving as places of online connection to that of a delivery platform for advertisements straight to the consumer.
+
+Doctrow sees this degeneration as a given considering these platforms don’t follow two of key principles he’s running a social platform:
+- The End to End Principle: Users should be given the content that they request and Creators should be able to give their content to those who want it easily.
+- The Right of Exit: Users should not be susceptible to any network effects when leaving a social platform. Specifically, the social platform should be interoperable with other platforms.
+
+If what users see is decided entirely by the platform and they have to choose between remaining possibly connected to their friends or leaving a social platform, then, Doctorow argues, this creates an environment not conducive to social connection but for user exploitation.
+
+It’s hard to imagine an alternative platform to these dominant tech giants, many have tried and failed. Yet several groups of people have been working on building their own platforms based on the relatively recent ActivityPub W3C standard to formulate what users in the space colloquially call “The Fediverse.”
+
+What makes the Fediverse unique from traditional social platforms is the prioritization of social community. Profits are prioritized last in The Fediverse because it’s run by everyday people, whether through a cloud or on their own machinery as a local server. Some platforms even receive backing from non-profits to fund server costs like Mastodon, a federated alternative to Twitter. These platforms also maintain public repositories of their code, meaning anyone is allowed to audit, collaborate, and modify the code, allowing for the service to grow as the users need, not by the whims of advertisers and investors.
+
+But by far the biggest selling point of the Fediverse is the ActivityPub protocol which allows the different Fediverse platforms to communicate with each other and migrate from platform to platform with relative ease. For example, Mastodon provides the ability to migrate between instances, allowing users to retain their followers and who they’re following. If an instance goes down due to the volatility of self-hosting; or if some platform is allowing inadequate behavior, users are able to migrate to other platforms instead without losing any of their connections on any previous one.
+
+Of course, this trend would not go unnoticed by tech companies and now many of them are interested in bringing their dominance to The Fediverse as well. Meta’s recent product Threads, another alternative to Twitter, integrates the ActivityPub protocol, much to the concern of many Fediverse users. But part of what makes these networks resilient is their ability to select with who and who not to interact with (annoying point?)
+
+Even if the Fediverse doesn’t survive, it’s worth considering in what ways our platforms and the places we spend so much time on can be better for us. The strength of network effects on big platforms often make them seem like the only possible option for remaining connected but it’s worthwhile to reflect on why these network effects are so prevalent in the first place — a primary method of retaining user attention and driving platform advertising revenue. As a community driven, owned, and developed platform, the Fediverse exemplifies a way for our social platforms to progress that is independent of corporate sponsorship and profit motivations and dependent on community interest, and the people who actually utilize these platforms.

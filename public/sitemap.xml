@@ -2,58 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/tags/articles/</loc>
+    <loc>https://dtalemayehu01.github.io/projects/</loc>
+    <lastmod>2025-02-27T17:46:32-07:00</lastmod>
+  </url><url>
+    <loc>https://dtalemayehu01.github.io/tags/articles/</loc>
     <lastmod>2025-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://dtalemayehu01.github.io/categories/</loc>
     <lastmod>2025-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/projects/</loc>
+    <loc>https://dtalemayehu01.github.io/projects/symposium-speech/</loc>
     <lastmod>2025-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/projects/symposium-speech/</loc>
+    <loc>https://dtalemayehu01.github.io/tags/</loc>
     <lastmod>2025-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://dtalemayehu01.github.io/categories/writing-sample/</loc>
     <lastmod>2025-02-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/writing-sample/</loc>
-    <lastmod>2025-02-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/tags/hackathon/</loc>
+    <loc>https://dtalemayehu01.github.io/tags/hackathon/</loc>
     <lastmod>2025-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/projects/jerrimeter/</loc>
+    <loc>https://dtalemayehu01.github.io/projects/jerrimeter/</loc>
     <lastmod>2025-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/personal-projects/</loc>
+    <loc>https://dtalemayehu01.github.io/categories/personal-projects/</loc>
     <lastmod>2025-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://dtalemayehu01.github.io/</loc>
     <lastmod>2025-01-30T03:36:57-08:00</lastmod>
   </url><url>
-    <loc>https://example.org/projects/analyzing-the-mariana-trench/</loc>
+    <loc>https://dtalemayehu01.github.io/projects/analyzing-the-mariana-trench/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/applied-math/</loc>
+    <loc>https://dtalemayehu01.github.io/tags/applied-math/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/class-project/</loc>
+    <loc>https://dtalemayehu01.github.io/categories/class-project/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/projects/trout-population-modeling/</loc>
+    <loc>https://dtalemayehu01.github.io/projects/trout-population-modeling/</loc>
     <lastmod>2024-10-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/employment/</loc>
+    <loc>https://dtalemayehu01.github.io/categories/employment/</loc>
     <lastmod>2024-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/projects/cu-spur-rust/</loc>
+    <loc>https://dtalemayehu01.github.io/projects/cu-spur-rust/</loc>
     <lastmod>2024-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/computer-science/</loc>
+    <loc>https://dtalemayehu01.github.io/tags/computer-science/</loc>
     <lastmod>2024-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/projects/music-merge/</loc>
+    <loc>https://dtalemayehu01.github.io/projects/music-merge/</loc>
     <lastmod>2024-04-25T00:00:00+00:00</lastmod>
   </url>
 </urlset>

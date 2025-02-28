@@ -10,7 +10,7 @@ categories:
 
 In the CU SPUR program I worked with Professor Jed Brown to investigate the capabilities of the Rust programming language in the field of Scientific Computation through analyzing rootfinding/optimization libraries in C, comparing them to the similar libraries in Rust, and then taking advantage of the FFI to combine the capabilities of current C libraries and the security and semantic clarity of Rust libraries.
 
-To study scientific computation in both languages we analyzed the Cohesive Zone problem which describes how materials response of adhesives under certain amounts of internal force. In the diagram below we have a simple depicition of the cohesive zone phenomenon. The important note below is that materials don't immediately split apart but slightly deform when pulled apart until the adhesive is unable to hold the materials together creating a "snap-back" effect where the material returns to its original state. The point right before this snap-back is our stable equilibrium we sought to identify in our iterative solving methods.
+To study scientific computation in both languages we analyzed the Cohesive Zone problem which describes how materials respond with adhesives under certain amounts of internal force. In the diagram below we have a simple depicition of the cohesive zone phenomenon. The important note below is that materials don't immediately split apart but slightly deform when pulled apart until the adhesive is unable to hold the materials together creating a "snap-back" effect where the material returns to its original state. The point right before this snap-back is our stable equilibrium we sought to identify in our iterative solving methods.
 
 [[cohesive-model.png]]
 

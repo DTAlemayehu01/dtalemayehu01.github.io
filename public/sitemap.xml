@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dtalemayehu01.github.io/projects/</loc>
-    <lastmod>2025-02-27T17:46:32-07:00</lastmod>
-  </url><url>
     <loc>https://dtalemayehu01.github.io/tags/articles/</loc>
     <lastmod>2025-02-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dtalemayehu01.github.io/categories/</loc>
+    <lastmod>2025-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dtalemayehu01.github.io/projects/</loc>
     <lastmod>2025-02-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dtalemayehu01.github.io/projects/symposium-speech/</loc>
@@ -40,6 +40,9 @@
   </url><url>
     <loc>https://dtalemayehu01.github.io/categories/class-project/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dtalemayehu01.github.io/projects/cem-fall-2024-article/</loc>
+    <lastmod>2024-11-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dtalemayehu01.github.io/projects/trout-population-modeling/</loc>
     <lastmod>2024-10-08T00:00:00+00:00</lastmod>

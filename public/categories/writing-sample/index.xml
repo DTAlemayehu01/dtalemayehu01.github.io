@@ -58,5 +58,68 @@ With people it&amp;#39;s more complex. I love my mom, I love my friends, and I&a
 </content>
     </item>
     
+    <item>
+      <title>CEM Fall 2024 Article</title>
+      <link>https://dtalemayehu01.github.io/projects/cem-fall-2024-article/</link>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://dtalemayehu01.github.io/projects/cem-fall-2024-article/</guid>
+      <description>&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-1&#34;&gt;
+Preface
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;I wrote this article for the Fall 2024 edition of the Colorado Engineering Magazine which focused on future technologies and possible futures available with current technologies. In alignment with this I wrote about the Fediverse and how it could serve as a future platform for social interaction that goes beyond traditional social media (Youtube, Snapchat, Instagram, Etc.).&lt;/p&gt;
+&lt;p&gt;
+Below is a transcript of the article.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-2&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-2&#34;&gt;
+The Fediverse and the Future of Social Connection
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-2&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+“Platform decay” is the term social media users have used to describe the progression of social platforms over time. Cory Doctorow, the Electronic Frontier Foundation Special Advisor, writes about the degenerating state of the company sponsored platforms like X (formerly Twitter), Instagram, and Snapchat from originally serving as places of online connection to that of a delivery platform for advertisements straight to the consumer. For Doctrow, this degeneration is a given considering these platforms don’t follow the two key principles he’s identified for running a positive social platform:&lt;/p&gt;</description>
+      <content>
+&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-1&#34;&gt;
+Preface
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;I wrote this article for the Fall 2024 edition of the Colorado Engineering Magazine which focused on future technologies and possible futures available with current technologies. In alignment with this I wrote about the Fediverse and how it could serve as a future platform for social interaction that goes beyond traditional social media (Youtube, Snapchat, Instagram, Etc.).&lt;/p&gt;
+&lt;p&gt;
+Below is a transcript of the article.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-2&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-2&#34;&gt;
+The Fediverse and the Future of Social Connection
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-2&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;
+“Platform decay” is the term social media users have used to describe the progression of social platforms over time. Cory Doctorow, the Electronic Frontier Foundation Special Advisor, writes about the degenerating state of the company sponsored platforms like X (formerly Twitter), Instagram, and Snapchat from originally serving as places of online connection to that of a delivery platform for advertisements straight to the consumer. For Doctrow, this degeneration is a given considering these platforms don’t follow the two key principles he’s identified for running a positive social platform:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The End to End Principle: Users should be given the content that they request and Creators should be able to give their content to those who want it easily.&lt;/li&gt;
+&lt;li&gt;The Right of Exit: Users should not be susceptible to any network effects when leaving a social platform. Specifically, the social platform should be interoperable with other platforms.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;If what users see is decided entirely by the platform and they have to choose between remaining possibly connected to their friends or leaving a social platform then Doctorow argues this creates an environment not conducive to social connection but for user exploitation.&lt;/p&gt;
+&lt;p&gt;
+It’s hard to imagine an alternative platform to these dominant tech giants, many have tried and failed. One prominent example is Vidme’s failure to rival Youtube. Yet despite the odds of success in a saturated market, several groups of people have been working on building their own platforms based on the relatively recent ActivityPub&lt;/p&gt;
+&lt;p&gt;
+standard developed by a web standards committee, the World Wide Web Consortium, to formulate what users in the space colloquially call “The Fediverse.”&lt;/p&gt;
+&lt;p&gt;
+What makes the Fediverse unique from traditional social platforms is the prioritization of social community. This is due to the fact that the Fediverse is hosted, developed, and moderated by enthusiastic hobbyists who are passionate about creating safer and better online communities. Practically, this means that any user/group is capable of running their own miniature social space complete with its own set of rules, allowing for not only a wide variety of spaces to suit any user’s needs but the ability for the user to satisfy their own need for a social space and the End-to-End Principle themselves. Consequently, users and communities own and regulate the discussion in the Fediverse space as opposed to corporations and other faceless entities. Additionally, Fediverse projects are predominantly open source, allowing anyone to modify, audit, and contribute to these projects such that their ideas influence the growth and development of the Fediverse.&lt;/p&gt;
+&lt;p&gt;
+But by far the biggest selling point of the Fediverse is the ActivityPub protocol which allows the different Fediverse platforms to communicate/federate with each other and migrate from platform to platform with relative ease and uphold the Right To Exit. For example, Mastodon, an alternative to X (formerly Twitter) provides the ability to “migrate” between instances (social spaces), allowing users to retain their followers and who they’re following in any social space. If an instance goes down due to the volatility of self-hosting, or if some platform is allowing inadequate behavior, users are able to migrate to other platforms instead without losing any of their connections on any previous one.&lt;/p&gt;
+&lt;p&gt;
+Of course, this trending space would not go unnoticed by tech companies where now many of them are interested in bringing their dominance to the Fediverse as well. Meta’s recent product Threads, another alternative to X (formerly Twitter), integrates the ActivityPub protocol. However, many concerns have been levied about the true intentions of these companies considering their history of embracing new competing technologies, extending them to the point that smaller competitors remain incompatible with the dominant platform, and then extinguishing these protocols such that the competition becomes a nonexistent threat to their market space. But part of what makes the Fediverse resilient is its ability to select with who and who not to interact with, including Big Tech should they prove to possess hostile intentions.&lt;/p&gt;
+&lt;p&gt;
+Even if the Fediverse doesn’t last, it’s worth considering in what ways our platforms and the places we spend so much time on can be better for us. The strength of network effects on big platforms often make them seem like the only possible option for remaining connected but it’s worthwhile to reflect on why these network effects are so prevalent in the first place — a primary method of retaining user attention and driving platform advertising revenue. As a community driven, owned, and developed platform, the Fediverse exemplifies a way for our social platforms to progress that is independent of corporate sponsorship and profit motivations and dependent on community interest, and the people who actually utilize these platforms.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content>
+    </item>
+    
   </channel>
 </rss>

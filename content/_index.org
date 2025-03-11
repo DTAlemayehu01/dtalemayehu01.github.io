@@ -8,7 +8,7 @@ title = 'The Home Page'
 #+attr_html: :width 50% :height 50%
 [[/images/about_me_img.jpeg]]
 
-Hi! My name is Daniel Alemayehu and I am an undergraduate at the University of Colorado, Boulder studying Computer Science and Applied Mathematics. I'm currently exploring different ways I can apply my skills to expand domain knowledge and contribute to real world problems! My interests presently reside in computational and mathematical applications in the fields of physics, biology, machine learning, and quantum engineering.
+Hi! My name is Daniel Alemayehu and I am an undergraduate honors student at the University of Colorado, Boulder studying Computer Science and Applied Mathematics. I'm currently exploring different ways I can apply my skills to expand domain knowledge and contribute to real world problems! My interests presently reside in computational and mathematical applications in the fields of physics, biology, machine learning, and quantum engineering.
 
 In my previous role as a Summer Undergraduate Researcher I explored Safer-Scientific Computation in Rust and explored the future of scientific computation both within Rust and its ecosystem and through Rust FFI interactions with C libraries. In that same role I also presentations with my coworker regarding the applications of Rust in scientific computation. I am also well versed in a variety of other languages like Python and Javascript and a variety of developer platforms like Linux and Git.
 

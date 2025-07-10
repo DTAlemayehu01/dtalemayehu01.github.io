@@ -16,6 +16,11 @@
     {{ end }}
     </div>
 
+		{{/*
     {{ template "_internal/pagination.html" . }}
+    {{ template "pagination.html" . }}
+		*/}}
+
+    {{ partial "pagination.html" . }}
   </main>
 {{ end }}

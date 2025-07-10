@@ -1,0 +1,9 @@
+---
+title: "You Should Have a Blog"
+date: 2025-03-01T20:42:19-07:00
+draft: true
+---
+
+1. Gradual withdrawl from soceity
+2. Exploiting society by contributing to work they value
+   - ie. Open vs closed systems

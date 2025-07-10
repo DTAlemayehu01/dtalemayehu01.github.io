@@ -1,0 +1,16 @@
+---
+title: "You Should Have a Blog"
+date: 2025-03-01T20:42:19-07:00
+draft: true
+---
+
+* Quintissential intro trailer blog
+
+However, while brain storming possible first blog posts I realized that the one of the roles of a first blog post is to justify its existence. After all, you might be thinking, "It's [Current Year Here] now didn't people leave blogs behind with dial-up and XMP?"/ Or, "You're a CS major, what possible reason could you have for blogging?" But it's not just my blog I'll justify, but I think *YOU* should have a blog too!
+
+* Critical thinking Skills Are Pretty Cool
+I like having a reason for doing things. Having a compulsion for things makes it worth while and easier to follow up on.
+* Bringing Interconnected Internet
+* Being able to Teach things is cool
+* Learning to Write so I'm Not Cooked When I Write Later
+The hardest things in programming is naming things.

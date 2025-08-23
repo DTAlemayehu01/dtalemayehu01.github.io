@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Daniel Alemayehu</title>
-    <link>https://dtalemayehu01.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Daniel Alemayehu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Daniel Alemayehu</copyright>
-    <lastBuildDate>Sat, 22 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dtalemayehu01.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Articles</title>
-      <link>https://dtalemayehu01.github.io/tags/articles/</link>
+      <link>http://localhost:1313/tags/articles/</link>
       <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://dtalemayehu01.github.io/tags/articles/</guid>
+      <guid>http://localhost:1313/tags/articles/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Hackathon</title>
-      <link>https://dtalemayehu01.github.io/tags/hackathon/</link>
+      <link>http://localhost:1313/tags/hackathon/</link>
       <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://dtalemayehu01.github.io/tags/hackathon/</guid>
+      <guid>http://localhost:1313/tags/hackathon/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Applied Math</title>
-      <link>https://dtalemayehu01.github.io/tags/applied-math/</link>
+      <link>http://localhost:1313/tags/applied-math/</link>
       <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://dtalemayehu01.github.io/tags/applied-math/</guid>
+      <guid>http://localhost:1313/tags/applied-math/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Computer Science</title>
-      <link>https://dtalemayehu01.github.io/tags/computer-science/</link>
+      <link>http://localhost:1313/tags/computer-science/</link>
       <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://dtalemayehu01.github.io/tags/computer-science/</guid>
+      <guid>http://localhost:1313/tags/computer-science/</guid>
       <description></description>
       <content></content>
     </item>

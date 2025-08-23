@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Applied Math on Daniel Alemayehu</title>
-    <link>http://localhost:1313/tags/applied-math/</link>
+    <link>https://dtalemayehu01.github.io/tags/applied-math/</link>
     <description>Recent content in Applied Math on Daniel Alemayehu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Daniel Alemayehu</copyright>
-    <lastBuildDate>Wed, 13 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/applied-math/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dtalemayehu01.github.io/tags/applied-math/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Analyzing the Mariana Trench</title>
-      <link>http://localhost:1313/projects/analyzing-the-mariana-trench/</link>
+      <link>https://dtalemayehu01.github.io/projects/analyzing-the-mariana-trench/</link>
       <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/analyzing-the-mariana-trench/</guid>
+      <guid>https://dtalemayehu01.github.io/projects/analyzing-the-mariana-trench/</guid>
       <description>&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
 &lt;h2 id=&#34;headline-1&#34;&gt;
 &lt;a href=&#34;https://github.com/DTAlemayehu01/APPM2360-Project2&#34;&gt;View Project Source Here!&lt;/a&gt;
@@ -44,10 +44,10 @@ Technologies used: MATLAB, LATEX
     
     <item>
       <title>Trout Population Modeling</title>
-      <link>http://localhost:1313/projects/trout-population-modeling/</link>
+      <link>https://dtalemayehu01.github.io/projects/trout-population-modeling/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/trout-population-modeling/</guid>
+      <guid>https://dtalemayehu01.github.io/projects/trout-population-modeling/</guid>
       <description>&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
 &lt;h2 id=&#34;headline-1&#34;&gt;
 &lt;a href=&#34;https://github.com/DTAlemayehu01/APPM2360-Project1/&#34;&gt;View Project Source Here!&lt;/a&gt;

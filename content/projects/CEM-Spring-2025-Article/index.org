@@ -1,0 +1,33 @@
+---
+title: "CEM Fall 2024 Article"
+date: 2025-05-10
+draft: false
+categories:
+- Writing Sample
+tags:
+- Articles
+---
+* Preface
+I wrote this article for the Spring 2025 edition of the Colorado Engineering Magazine which focused on the intersection between technology and nature. In alignment with this I wrote about Dr. Peleg's research at CU Boulder which intersects between computer science, conservational biology, and mathematical modelling.
+
+Below is a transcript of the article. The article is also published [[https://www.colorado.edu/studentgroups/colorado-engineer/2024/green-energy][here]] and I encourage you to read the other CEM articles linked found there as well!
+
+* Fireflies and Science
+Have you ever seen a firefly in your life? How about a flashing swarm? “Indeed, it’s a common misconception that Colorado doesn’t have fireflies,” Dr. Orit Peleg affirms in an interview, where the commonly held belief that fireflies do not reside in Colorado is addressed.
+
+Dr. Peleg is a professor at the Biofrontiers Institute at the University of Colorado Boulder, exploring the intersection of Computer Science, Physics,and Biology through her research on biological signals and modeling her insights through computational and machine learning models. One of her prominent research directions regards fireflies and the many properties that surround their mysterious flash patterns.
+
+
+One such mystery is how fireflies are able to synchronize their flashing in order to communicate in a large multi-agent swarm and what specific com-munications are certain flash patterns associated with. This field of study has yielded interesting findings such as how specific species of fireflies have their own respective flash patterns to signal to potential mates and that certain species of fireflies will actually imitate those patterns to prey on signaling males. Additional findings include how LEDs can be used to influence firefly swarms to emulate and synchronize with artificial flash patterns. Their lab also utilizes machine learning models such as recurrent neural networks to help categorize and classify flashing patterns along with traditional mathematical modeling methodologies to compare and improve upon existing
+mathematical models. Due to the multidisciplinary nature of the subject, the applications of the research are vast as well.
+
+
+Part of the motivation for research involves informing firefly conservation efforts. For example, the impact light pollution from urbanization may have on the ability for fireflies to clearly
+communicate and synchronize their flash patterns, however, data on the location and population of firefly species is limited. Thus, being able to improve population statistics collection
+is important if conservation efforts are to have a general idea on how to proceed with policy advocacy and the change fireflies have experienced as a result of climate change, urbanization, and other environmental issues. Additionally, this research may provide insight into common complex system problems such as the “cocktail party” problem which describes the common dilemma of trying to hear a friend in a noise party. Fireflies experience a version of this problem while mating as courtship occurs in a swarm sending many noises and they have a variety of creative solutions to these issues.
+
+
+
+To solve the issue regarding spatiotemporal analysis of firefly swarms their lab devised a methodology with two 360 Degree GoPro cameras that record data and then utilize trigonometry with advanced image processing algorithms to recreate the 3D spatio temporal evolution of firefly signals from 2D visuals. In comparison with the method of human observation records made on site, this method allows for observations to be made after-the-fact by both computers and humans as well as providing huge boons to research reproducibility. Additionally, this also opens up a pathway for citizens with less advanced tooling making fire-
+fly observations on site to contribute to firefly research by allowing for 3D reconstruction from videos of firefly swarms. In fact, their lab has launched a citizen science initiative as well to get a better idea of where fireflies lie in the state of Colorado. Many people have reported
+sightings commonly in the front range, southwest, and western Colorado! If you're interested in helping contribute to firefly research, @oritpeleg on mastodon.social has a post with a Google form to sign up to contribute.

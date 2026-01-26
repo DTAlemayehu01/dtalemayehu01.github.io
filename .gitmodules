@@ -4,6 +4,3 @@
 [submodule "public/icons"]
 	path = public/icons
 	url = https://github.com/edent/SuperTinyIcons.git
-[submodule "themes/terminal"]
-	path = themes/terminal
-	url = https://github.com/DTAlemayehu01/hugo-theme-terminal.git

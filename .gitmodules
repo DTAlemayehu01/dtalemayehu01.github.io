@@ -6,4 +6,4 @@
 	url = https://github.com/edent/SuperTinyIcons.git
 [submodule "themes/terminal"]
 	path = themes/terminal
-	url = https://github.com/DTAlemayehu01/dtalemayehu01.github.io.git
+	url = https://github.com/panr/hugo-theme-terminal.git

@@ -2,173 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Writing Sample on Daniel Alemayehu</title>
-    <link>https://dtalemayehu01.github.io/categories/writing-sample/</link>
+    <link>http://localhost:1313/categories/writing-sample/</link>
     <description>Recent content in Writing Sample on Daniel Alemayehu</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <copyright>© 2025 Daniel Alemayehu</copyright>
-    <lastBuildDate>Sat, 10 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dtalemayehu01.github.io/categories/writing-sample/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/writing-sample/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CEM Fall 2024 Article</title>
-      <link>https://dtalemayehu01.github.io/projects/cem-spring-2025-article/</link>
+      <link>http://localhost:1313/projects/cem-spring-2025-article/</link>
       <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://dtalemayehu01.github.io/projects/cem-spring-2025-article/</guid>
-      <description>&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
-&lt;h2 id=&#34;headline-1&#34;&gt;
-Preface
-&lt;/h2&gt;
-&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
-&lt;p&gt;I wrote this article for the Spring 2025 edition of the Colorado Engineering Magazine which focused on the intersection between technology and nature. In alignment with this I wrote about Dr. Peleg&amp;#39;s research at CU Boulder which intersects between computer science, conservational biology, and mathematical modelling.&lt;/p&gt;
-&lt;p&gt;
-Below is a transcript of the article. The article is also published &lt;a href=&#34;https://www.colorado.edu/studentgroups/colorado-engineer/2024/green-energy&#34;&gt;here&lt;/a&gt; and I encourage you to read the other CEM articles linked found there as well!&lt;/p&gt;</description>
-      <content>
-&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
-&lt;h2 id=&#34;headline-1&#34;&gt;
-Preface
-&lt;/h2&gt;
-&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
-&lt;p&gt;I wrote this article for the Spring 2025 edition of the Colorado Engineering Magazine which focused on the intersection between technology and nature. In alignment with this I wrote about Dr. Peleg&amp;#39;s research at CU Boulder which intersects between computer science, conservational biology, and mathematical modelling.&lt;/p&gt;
-&lt;p&gt;
-Below is a transcript of the article. The article is also published &lt;a href=&#34;https://www.colorado.edu/studentgroups/colorado-engineer/2024/green-energy&#34;&gt;here&lt;/a&gt; and I encourage you to read the other CEM articles linked found there as well!&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div id=&#34;outline-container-headline-2&#34; class=&#34;outline-2&#34;&gt;
-&lt;h2 id=&#34;headline-2&#34;&gt;
-Fireflies and Science
-&lt;/h2&gt;
-&lt;div id=&#34;outline-text-headline-2&#34; class=&#34;outline-text-2&#34;&gt;
-&lt;p&gt;Have you ever seen a firefly in your life? How about a flashing swarm? “Indeed, it’s a common misconception that Colorado doesn’t have fireflies,” Dr. Orit Peleg affirms in an interview, where the commonly held belief that fireflies do not reside in Colorado is addressed.&lt;/p&gt;
-&lt;p&gt;
-Dr. Peleg is a professor at the Biofrontiers Institute at the University of Colorado Boulder, exploring the intersection of Computer Science, Physics,and Biology through her research on biological signals and modeling her insights through computational and machine learning models. One of her prominent research directions regards fireflies and the many properties that surround their mysterious flash patterns.&lt;/p&gt;
-&lt;p&gt;
-One such mystery is how fireflies are able to synchronize their flashing in order to communicate in a large multi-agent swarm and what specific com-munications are certain flash patterns associated with. This field of study has yielded interesting findings such as how specific species of fireflies have their own respective flash patterns to signal to potential mates and that certain species of fireflies will actually imitate those patterns to prey on signaling males. Additional findings include how LEDs can be used to influence firefly swarms to emulate and synchronize with artificial flash patterns. Their lab also utilizes machine learning models such as recurrent neural networks to help categorize and classify flashing patterns along with traditional mathematical modeling methodologies to compare and improve upon existing
-mathematical models. Due to the multidisciplinary nature of the subject, the applications of the research are vast as well.&lt;/p&gt;
-&lt;p&gt;
-Part of the motivation for research involves informing firefly conservation efforts. For example, the impact light pollution from urbanization may have on the ability for fireflies to clearly
-communicate and synchronize their flash patterns, however, data on the location and population of firefly species is limited. Thus, being able to improve population statistics collection
-is important if conservation efforts are to have a general idea on how to proceed with policy advocacy and the change fireflies have experienced as a result of climate change, urbanization, and other environmental issues. Additionally, this research may provide insight into common complex system problems such as the “cocktail party” problem which describes the common dilemma of trying to hear a friend in a noise party. Fireflies experience a version of this problem while mating as courtship occurs in a swarm sending many noises and they have a variety of creative solutions to these issues.&lt;/p&gt;
-&lt;p&gt;
-To solve the issue regarding spatiotemporal analysis of firefly swarms their lab devised a methodology with two 360 Degree GoPro cameras that record data and then utilize trigonometry with advanced image processing algorithms to recreate the 3D spatio temporal evolution of firefly signals from 2D visuals. In comparison with the method of human observation records made on site, this method allows for observations to be made after-the-fact by both computers and humans as well as providing huge boons to research reproducibility. Additionally, this also opens up a pathway for citizens with less advanced tooling making fire-
-fly observations on site to contribute to firefly research by allowing for 3D reconstruction from videos of firefly swarms. In fact, their lab has launched a citizen science initiative as well to get a better idea of where fireflies lie in the state of Colorado. Many people have reported
-sightings commonly in the front range, southwest, and western Colorado! If you&amp;#39;re interested in helping contribute to firefly research, @oritpeleg on mastodon.social has a post with a Google form to sign up to contribute.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</content>
+      <guid>http://localhost:1313/projects/cem-spring-2025-article/</guid>
+      <description>&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;&#xA;&lt;h2 id=&#34;headline-1&#34;&gt;&#xA;Preface&#xA;&lt;/h2&gt;&#xA;&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;&#xA;&lt;p&gt;I wrote this article for the Spring 2025 edition of the Colorado Engineering Magazine which focused on the intersection between technology and nature. In alignment with this I wrote about Dr. Peleg&amp;#39;s research at CU Boulder which intersects between computer science, conservational biology, and mathematical modelling.&lt;/p&gt;&#xA;&lt;p&gt;&#xA;Below is a transcript of the article. The article is also published &lt;a href=&#34;https://www.colorado.edu/studentgroups/colorado-engineer/2024/green-energy&#34;&gt;here&lt;/a&gt; and I encourage you to read the other CEM articles linked found there as well!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Symposium Speech</title>
-      <link>https://dtalemayehu01.github.io/projects/symposium-speech/</link>
+      <link>http://localhost:1313/projects/symposium-speech/</link>
       <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://dtalemayehu01.github.io/projects/symposium-speech/</guid>
-      <description>&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
-&lt;h2 id=&#34;headline-1&#34;&gt;
-Introduction:
-&lt;/h2&gt;
-&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
-&lt;p&gt;As a part of my freshman seminar class EHON 1151 our professor Scot Douglass asked us to come up with our own ideas regarding the concept of love and to share this with a small group of our peers over a home cooked dinner party, in the spirit of the events of &lt;em&gt;Symposium&lt;/em&gt; by Plato. I share a transcript of my speech below in which I share my ideas regarding how one can distinguish between different types of love and critique how love is commonly recognized modernly.&lt;/p&gt;</description>
-      <content>
-&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
-&lt;h2 id=&#34;headline-1&#34;&gt;
-Introduction:
-&lt;/h2&gt;
-&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
-&lt;p&gt;As a part of my freshman seminar class EHON 1151 our professor Scot Douglass asked us to come up with our own ideas regarding the concept of love and to share this with a small group of our peers over a home cooked dinner party, in the spirit of the events of &lt;em&gt;Symposium&lt;/em&gt; by Plato. I share a transcript of my speech below in which I share my ideas regarding how one can distinguish between different types of love and critique how love is commonly recognized modernly.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div id=&#34;outline-container-headline-2&#34; class=&#34;outline-2&#34;&gt;
-&lt;h2 id=&#34;headline-2&#34;&gt;
-Speech:
-&lt;/h2&gt;
-&lt;div id=&#34;outline-text-headline-2&#34; class=&#34;outline-text-2&#34;&gt;
-&lt;p&gt;As recounted by Socrates, “According to Diotima, Love is not a god at all, but is rather a spirit that mediates between people and the objects of their desire. Love is neither wise nor beautiful, but is rather the desire for wisdom and beauty.” Oftentimes, many expect love to show up for them. As if it&amp;#39;ll take the form of a wise and beautiful person that they&amp;#39;ll happen to stumble upon. This mindset will result in one missing out on true love. Love is the act of desire, the intention and want of a person. In other words, love is the choice of the person, to choose to love and to practice love than to stumble upon love.&lt;/p&gt;
-&lt;p&gt;
-I love to eat pizza. I love my mom. And I love my mom&amp;#39;s cooking. Whenever, I say these things I can always think of “why” I love these things and people. I can justify my love and through it&amp;#39;s justification my love becomes understood. I wasn&amp;#39;t randomly born with a predisposition to love these things. I hardly understood loving something when I was born. I only understand what I&amp;#39;ve experienced, and then I can only then derive opinions from my experiences. I might&amp;#39;ve been born to my mother but there is no true obligation to love her. I learned to love her. I learned I loved her because she fed me. I learned I loved her because she cared for me. And I learned I loved her because she wanted me to live. I chose to love her, based on what I learned, and that&amp;#39;s what makes it more meaningful. Intention, meaning, and freedom are all things that make love the powerful and fulling force that it is. Your goals, your feelings, your actions, they mean something because you chose to act on them and you set them for yourself. Love is much in the same, you define it for yourself, and you choose who you love for youself so through yourself it&amp;#39;s significance is made clear.&lt;/p&gt;
-&lt;p&gt;
-Love is not an act of waiting in desire. It is often espoused, “Love comes to those who wait,” and “You&amp;#39;ll just know if they&amp;#39;re the right one.” But observing modern gender expectations will show that these sayings are flat out fallacious. Obtaining the love of someone else requires that you yourself give them your love, or in other words, you open up to how you feel about them. As massive part of why so many romances are so tense is because there is often someone who simply wants to recieve love rather than to give love.&lt;/p&gt;
-&lt;p&gt;
-Classic disney movies are most well known vehicles for these outdated ideals. Princesses like Cinderella, Sleeping Beauty, and Snow White are the poster children for the passive helpless woman waiting for the heroic man to save the day. The relationships depeticed by these movies are presented as also being so perfect that it is not even a question that they&amp;#39;ll last with “The End” signifying the events after the story don&amp;#39;t matter because the relationship doesn&amp;#39;t have a story. But, the most problematic part of their movies is that the movie frames the potagonist&amp;#39;s passivity as the central and defining reason for such a perfect love exist by revolving the narration and story around the inactive protagonistic.&lt;/p&gt;
-&lt;p&gt;
-In reality, the godmother had to get Cinderella out of the house, the Prince had to be led by the dwarves to Snow White, someone had to write the prophecy to bring Sleeping Beauty her groom. There is a prevelant existence of effort required to bring the princess and her prince together and the lack of action on the princess&amp;#39;s part always rings as odd and fairytale-like. Yet these movies are lifelike enough to convince that love should be like a fairytale and not something realistic and grounded.&lt;/p&gt;
-&lt;p&gt;
-The Beauty and the Beast yet deviates from this norm. The protagonist, Belle has much higher expectations for love rather as she rejects Gaston, someone she barely knows.  She is more intentional about who she wishes to love and why. Later, she meets the Beast, a prince turned ferocious monster, which should be someone she can&amp;#39;t love. After all how could she love something so different and monsterous? But as the movie continues the prince learns to open up and Belle learns to love the Beast. They don&amp;#39;t start off as people who complete and find each other. They have discord, arguments, and conflict. But none of that matters as the cooperate, learn, accept, and appreciate each other. They aren&amp;#39;t seeking perfect love, they&amp;#39;re building perfect love.&lt;/p&gt;
-&lt;p&gt;
-One thing people will argue is that even if you chose to love them that you still had encountered these people by the hand of chance. And as a result this random encounter is evidence of soulmates. That you were predetermined by fate to love these specific people. But “who and what” you love or “when and where” you love them are irrelevant details in evaluating love in comparision to “why and how” you love them.&lt;/p&gt;
-&lt;p&gt;
-I can love a multitude of different pizza slices. I can love cheese, I can love pepperoni, and I can love Chicago pizza. I can&amp;#39;t love chocolate pizza, I can&amp;#39;t love “dessert pizza”, and I can&amp;#39;t love cheeseless pizza. I have a wide variety of different reasons for loving each pizza but I still love them all the same. I show my appreciation for pizza for eating them. Because I don&amp;#39;t love the other pizzas I don&amp;#39;t show my appreciation to them. I can&amp;#39;t have a pizza soulmate because there are different reasons for why I love the pizza the same way. What kind of pizza I love is largely irrelevant because I love them in the same way and they all mean the same thing to me.&lt;/p&gt;
-&lt;p&gt;
-With people it&amp;#39;s more complex. I love my mom, I love my friends, and I&amp;#39;d love to have a girlfriend… I love my mom for different reasons than I love my friends and in turn the reasons I&amp;#39;d love a girlfriend would also be different, and how I love them is also different is it not? I love my mom by hugging them and I hug some of my friends. I love my mom because she cares for me but I wouldn&amp;#39;t be friends with my friends if they didn&amp;#39;t care about me. It&amp;#39;s still true I have different boundaries with how I love my friends and how I love my families, but it&amp;#39;s still possible for me to express my love all in the same way and to love them both for the same reasons. I choose to show my love to them in different ways and acknowledge different reasons for loving them. But, that choice doesn&amp;#39;t change that I can love all these people for the same reason and can love them all in the same ways. So does it not stand that it simply doesn&amp;#39;t matter the “who” I am loving over the “why and how” I am loving?&lt;/p&gt;
-&lt;p&gt;
-“Love is not primarily a relationship to a specific person; it is an attitude, an orientation of character which determines the relatedness of a person to the world as a whole, not toward one “object” of love. If a person loves only one other person and is indifferent to the rest of his fellow men, his love is not love but a symbiotic attachment, or an enlarged egotism. Yet, most people believe that love is constituted by the object, not by the faculty.” - Eric Fromm,  Art of Loving.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</content>
+      <guid>http://localhost:1313/projects/symposium-speech/</guid>
+      <description>&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;&#xA;&lt;h2 id=&#34;headline-1&#34;&gt;&#xA;Introduction:&#xA;&lt;/h2&gt;&#xA;&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;&#xA;&lt;p&gt;As a part of my freshman seminar class EHON 1151 our professor Scot Douglass asked us to come up with our own ideas regarding the concept of love and to share this with a small group of our peers over a home cooked dinner party, in the spirit of the events of &lt;em&gt;Symposium&lt;/em&gt; by Plato. I share a transcript of my speech below in which I share my ideas regarding how one can distinguish between different types of love and critique how love is commonly recognized modernly.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>CEM Fall 2024 Article</title>
-      <link>https://dtalemayehu01.github.io/projects/cem-fall-2024-article/</link>
+      <link>http://localhost:1313/projects/cem-fall-2024-article/</link>
       <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://dtalemayehu01.github.io/projects/cem-fall-2024-article/</guid>
-      <description>&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
-&lt;h2 id=&#34;headline-1&#34;&gt;
-Preface
-&lt;/h2&gt;
-&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
-&lt;p&gt;I wrote this article for the Fall 2024 edition of the Colorado Engineering Magazine which focused on future technologies and possible futures available with current technologies. In alignment with this I wrote about the Fediverse and how it could serve as a future platform for social interaction that goes beyond traditional social media (Youtube, Snapchat, Instagram, Etc.).&lt;/p&gt;
-&lt;p&gt;
-Below is a transcript of the article.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div id=&#34;outline-container-headline-2&#34; class=&#34;outline-2&#34;&gt;
-&lt;h2 id=&#34;headline-2&#34;&gt;
-The Fediverse and the Future of Social Connection
-&lt;/h2&gt;
-&lt;div id=&#34;outline-text-headline-2&#34; class=&#34;outline-text-2&#34;&gt;
-&lt;p&gt;
-“Platform decay” is the term social media users have used to describe the progression of social platforms over time. Cory Doctorow, the Electronic Frontier Foundation Special Advisor, writes about the degenerating state of the company sponsored platforms like X (formerly Twitter), Instagram, and Snapchat from originally serving as places of online connection to that of a delivery platform for advertisements straight to the consumer. For Doctrow, this degeneration is a given considering these platforms don’t follow the two key principles he’s identified for running a positive social platform:&lt;/p&gt;</description>
-      <content>
-&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
-&lt;h2 id=&#34;headline-1&#34;&gt;
-Preface
-&lt;/h2&gt;
-&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
-&lt;p&gt;I wrote this article for the Fall 2024 edition of the Colorado Engineering Magazine which focused on future technologies and possible futures available with current technologies. In alignment with this I wrote about the Fediverse and how it could serve as a future platform for social interaction that goes beyond traditional social media (Youtube, Snapchat, Instagram, Etc.).&lt;/p&gt;
-&lt;p&gt;
-Below is a transcript of the article.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div id=&#34;outline-container-headline-2&#34; class=&#34;outline-2&#34;&gt;
-&lt;h2 id=&#34;headline-2&#34;&gt;
-The Fediverse and the Future of Social Connection
-&lt;/h2&gt;
-&lt;div id=&#34;outline-text-headline-2&#34; class=&#34;outline-text-2&#34;&gt;
-&lt;p&gt;
-“Platform decay” is the term social media users have used to describe the progression of social platforms over time. Cory Doctorow, the Electronic Frontier Foundation Special Advisor, writes about the degenerating state of the company sponsored platforms like X (formerly Twitter), Instagram, and Snapchat from originally serving as places of online connection to that of a delivery platform for advertisements straight to the consumer. For Doctrow, this degeneration is a given considering these platforms don’t follow the two key principles he’s identified for running a positive social platform:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;The End to End Principle: Users should be given the content that they request and Creators should be able to give their content to those who want it easily.&lt;/li&gt;
-&lt;li&gt;The Right of Exit: Users should not be susceptible to any network effects when leaving a social platform. Specifically, the social platform should be interoperable with other platforms.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;If what users see is decided entirely by the platform and they have to choose between remaining possibly connected to their friends or leaving a social platform then Doctorow argues this creates an environment not conducive to social connection but for user exploitation.&lt;/p&gt;
-&lt;p&gt;
-It’s hard to imagine an alternative platform to these dominant tech giants, many have tried and failed. One prominent example is Vidme’s failure to rival Youtube. Yet despite the odds of success in a saturated market, several groups of people have been working on building their own platforms based on the relatively recent ActivityPub&lt;/p&gt;
-&lt;p&gt;
-standard developed by a web standards committee, the World Wide Web Consortium, to formulate what users in the space colloquially call “The Fediverse.”&lt;/p&gt;
-&lt;p&gt;
-What makes the Fediverse unique from traditional social platforms is the prioritization of social community. This is due to the fact that the Fediverse is hosted, developed, and moderated by enthusiastic hobbyists who are passionate about creating safer and better online communities. Practically, this means that any user/group is capable of running their own miniature social space complete with its own set of rules, allowing for not only a wide variety of spaces to suit any user’s needs but the ability for the user to satisfy their own need for a social space and the End-to-End Principle themselves. Consequently, users and communities own and regulate the discussion in the Fediverse space as opposed to corporations and other faceless entities. Additionally, Fediverse projects are predominantly open source, allowing anyone to modify, audit, and contribute to these projects such that their ideas influence the growth and development of the Fediverse.&lt;/p&gt;
-&lt;p&gt;
-But by far the biggest selling point of the Fediverse is the ActivityPub protocol which allows the different Fediverse platforms to communicate/federate with each other and migrate from platform to platform with relative ease and uphold the Right To Exit. For example, Mastodon, an alternative to X (formerly Twitter) provides the ability to “migrate” between instances (social spaces), allowing users to retain their followers and who they’re following in any social space. If an instance goes down due to the volatility of self-hosting, or if some platform is allowing inadequate behavior, users are able to migrate to other platforms instead without losing any of their connections on any previous one.&lt;/p&gt;
-&lt;p&gt;
-Of course, this trending space would not go unnoticed by tech companies where now many of them are interested in bringing their dominance to the Fediverse as well. Meta’s recent product Threads, another alternative to X (formerly Twitter), integrates the ActivityPub protocol. However, many concerns have been levied about the true intentions of these companies considering their history of embracing new competing technologies, extending them to the point that smaller competitors remain incompatible with the dominant platform, and then extinguishing these protocols such that the competition becomes a nonexistent threat to their market space. But part of what makes the Fediverse resilient is its ability to select with who and who not to interact with, including Big Tech should they prove to possess hostile intentions.&lt;/p&gt;
-&lt;p&gt;
-Even if the Fediverse doesn’t last, it’s worth considering in what ways our platforms and the places we spend so much time on can be better for us. The strength of network effects on big platforms often make them seem like the only possible option for remaining connected but it’s worthwhile to reflect on why these network effects are so prevalent in the first place — a primary method of retaining user attention and driving platform advertising revenue. As a community driven, owned, and developed platform, the Fediverse exemplifies a way for our social platforms to progress that is independent of corporate sponsorship and profit motivations and dependent on community interest, and the people who actually utilize these platforms.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</content>
+      <guid>http://localhost:1313/projects/cem-fall-2024-article/</guid>
+      <description>&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;&#xA;&lt;h2 id=&#34;headline-1&#34;&gt;&#xA;Preface&#xA;&lt;/h2&gt;&#xA;&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;&#xA;&lt;p&gt;I wrote this article for the Fall 2024 edition of the Colorado Engineering Magazine which focused on future technologies and possible futures available with current technologies. In alignment with this I wrote about the Fediverse and how it could serve as a future platform for social interaction that goes beyond traditional social media (Youtube, Snapchat, Instagram, Etc.).&lt;/p&gt;&#xA;&lt;p&gt;&#xA;Below is a transcript of the article.&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;div id=&#34;outline-container-headline-2&#34; class=&#34;outline-2&#34;&gt;&#xA;&lt;h2 id=&#34;headline-2&#34;&gt;&#xA;The Fediverse and the Future of Social Connection&#xA;&lt;/h2&gt;&#xA;&lt;div id=&#34;outline-text-headline-2&#34; class=&#34;outline-text-2&#34;&gt;&#xA;&lt;p&gt;&#xA;“Platform decay” is the term social media users have used to describe the progression of social platforms over time. Cory Doctorow, the Electronic Frontier Foundation Special Advisor, writes about the degenerating state of the company sponsored platforms like X (formerly Twitter), Instagram, and Snapchat from originally serving as places of online connection to that of a delivery platform for advertisements straight to the consumer. For Doctrow, this degeneration is a given considering these platforms don’t follow the two key principles he’s identified for running a positive social platform:&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

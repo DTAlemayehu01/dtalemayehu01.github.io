@@ -2,110 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Class Project on Daniel Alemayehu</title>
-    <link>https://dtalemayehu01.github.io/categories/class-project/</link>
+    <link>http://localhost:1313/categories/class-project/</link>
     <description>Recent content in Class Project on Daniel Alemayehu</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <copyright>© 2025 Daniel Alemayehu</copyright>
-    <lastBuildDate>Wed, 13 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dtalemayehu01.github.io/categories/class-project/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/class-project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Analyzing the Mariana Trench</title>
-      <link>https://dtalemayehu01.github.io/projects/analyzing-the-mariana-trench/</link>
+      <link>http://localhost:1313/projects/analyzing-the-mariana-trench/</link>
       <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://dtalemayehu01.github.io/projects/analyzing-the-mariana-trench/</guid>
-      <description>&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
-&lt;h2 id=&#34;headline-1&#34;&gt;
-&lt;a href=&#34;https://github.com/DTAlemayehu01/APPM2360-Project2&#34;&gt;View Project Source Here!&lt;/a&gt;
-&lt;/h2&gt;
-&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
-&lt;p&gt;For our APPM 2360 class at CU Boulder, me and two partners studied the Incomplete SVD and how it can be used to take complex data sets and make it easier to study by reducing the amount of memory used to represent that data. We also studied different sizes of Incomplete SVDs and the tradeoffs in data resolution as we increased the number of eigenvalues used in our Incomplete SVD.&lt;/p&gt;</description>
-      <content>
-&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
-&lt;h2 id=&#34;headline-1&#34;&gt;
-&lt;a href=&#34;https://github.com/DTAlemayehu01/APPM2360-Project2&#34;&gt;View Project Source Here!&lt;/a&gt;
-&lt;/h2&gt;
-&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
-&lt;p&gt;For our APPM 2360 class at CU Boulder, me and two partners studied the Incomplete SVD and how it can be used to take complex data sets and make it easier to study by reducing the amount of memory used to represent that data. We also studied different sizes of Incomplete SVDs and the tradeoffs in data resolution as we increased the number of eigenvalues used in our Incomplete SVD.&lt;/p&gt;
-&lt;div id=&#34;outline-container-headline-2&#34; class=&#34;outline-6&#34;&gt;
-&lt;h6 id=&#34;headline-2&#34;&gt;
-Technologies used: MATLAB, LATEX
-&lt;/h6&gt;
-&lt;/div&gt;
-&lt;div id=&#34;outline-container-headline-3&#34; class=&#34;outline-6&#34;&gt;
-&lt;h6 id=&#34;headline-3&#34;&gt;
-&lt;a href=&#34;https://github.com/DTAlemayehu01/APPM2360-Project2/blob/main/report/project.pdf&#34;&gt;Project Write Up&lt;/a&gt;
-&lt;/h6&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</content>
+      <guid>http://localhost:1313/projects/analyzing-the-mariana-trench/</guid>
+      <description>&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;&#xA;&lt;h2 id=&#34;headline-1&#34;&gt;&#xA;&lt;a href=&#34;https://github.com/DTAlemayehu01/APPM2360-Project2&#34;&gt;View Project Source Here!&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;&#xA;&lt;p&gt;For our APPM 2360 class at CU Boulder, me and two partners studied the Incomplete SVD and how it can be used to take complex data sets and make it easier to study by reducing the amount of memory used to represent that data. We also studied different sizes of Incomplete SVDs and the tradeoffs in data resolution as we increased the number of eigenvalues used in our Incomplete SVD.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Trout Population Modeling</title>
-      <link>https://dtalemayehu01.github.io/projects/trout-population-modeling/</link>
+      <link>http://localhost:1313/projects/trout-population-modeling/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://dtalemayehu01.github.io/projects/trout-population-modeling/</guid>
-      <description>&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
-&lt;h2 id=&#34;headline-1&#34;&gt;
-&lt;a href=&#34;https://github.com/DTAlemayehu01/APPM2360-Project1/&#34;&gt;View Project Source Here!&lt;/a&gt;
-&lt;/h2&gt;
-&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
-&lt;p&gt;For our APPM 2360 class at CU Boulder, me and my partner modeled predicted trout populations in a pond from a given neighborhood in order to create an informed decision as to how to best stock the pond with fish to maximize the enjoyment from fishing in the pond any neighborhood participants may have. We modeled the trout in a variety of ways through MATLAB code and the modified Logistic Growth Equation for each trout spieces we analyzed.&lt;/p&gt;</description>
-      <content>
-&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
-&lt;h2 id=&#34;headline-1&#34;&gt;
-&lt;a href=&#34;https://github.com/DTAlemayehu01/APPM2360-Project1/&#34;&gt;View Project Source Here!&lt;/a&gt;
-&lt;/h2&gt;
-&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
-&lt;p&gt;For our APPM 2360 class at CU Boulder, me and my partner modeled predicted trout populations in a pond from a given neighborhood in order to create an informed decision as to how to best stock the pond with fish to maximize the enjoyment from fishing in the pond any neighborhood participants may have. We modeled the trout in a variety of ways through MATLAB code and the modified Logistic Growth Equation for each trout spieces we analyzed.&lt;/p&gt;
-&lt;div id=&#34;outline-container-headline-2&#34; class=&#34;outline-6&#34;&gt;
-&lt;h6 id=&#34;headline-2&#34;&gt;
-Technologies used: MATLAB, LATEX
-&lt;/h6&gt;
-&lt;/div&gt;
-&lt;div id=&#34;outline-container-headline-3&#34; class=&#34;outline-6&#34;&gt;
-&lt;h6 id=&#34;headline-3&#34;&gt;
-&lt;a href=&#34;https://github.com/DTAlemayehu01/APPM2360-Project1/blob/main/project.pdf&#34;&gt;Project Write Up&lt;/a&gt;
-&lt;/h6&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</content>
+      <guid>http://localhost:1313/projects/trout-population-modeling/</guid>
+      <description>&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;&#xA;&lt;h2 id=&#34;headline-1&#34;&gt;&#xA;&lt;a href=&#34;https://github.com/DTAlemayehu01/APPM2360-Project1/&#34;&gt;View Project Source Here!&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;&#xA;&lt;p&gt;For our APPM 2360 class at CU Boulder, me and my partner modeled predicted trout populations in a pond from a given neighborhood in order to create an informed decision as to how to best stock the pond with fish to maximize the enjoyment from fishing in the pond any neighborhood participants may have. We modeled the trout in a variety of ways through MATLAB code and the modified Logistic Growth Equation for each trout spieces we analyzed.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Music Merge</title>
-      <link>https://dtalemayehu01.github.io/projects/music-merge/</link>
+      <link>http://localhost:1313/projects/music-merge/</link>
       <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://dtalemayehu01.github.io/projects/music-merge/</guid>
-      <description>&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
-&lt;h2 id=&#34;headline-1&#34;&gt;
-&lt;a href=&#34;https://github.com/CSCI-3308-Group-014-06-Final-Project/Music-Merge&#34;&gt;View Source Code and Documentation Here!&lt;/a&gt;
-&lt;/h2&gt;
-&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
-&lt;p&gt;For the final project in CU Boulder&amp;#39;s CSCI 3308 class me and a team of 5 others utilized the public Spotify API in order to help users manage their playlists better in a simple frontend. The Spotify app does have utilities to merge two playlists but we extend this functionality to multiple playlists and provide settings for users to set attributes for their next merged playlist.&lt;/p&gt;</description>
-      <content>
-&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
-&lt;h2 id=&#34;headline-1&#34;&gt;
-&lt;a href=&#34;https://github.com/CSCI-3308-Group-014-06-Final-Project/Music-Merge&#34;&gt;View Source Code and Documentation Here!&lt;/a&gt;
-&lt;/h2&gt;
-&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
-&lt;p&gt;For the final project in CU Boulder&amp;#39;s CSCI 3308 class me and a team of 5 others utilized the public Spotify API in order to help users manage their playlists better in a simple frontend. The Spotify app does have utilities to merge two playlists but we extend this functionality to multiple playlists and provide settings for users to set attributes for their next merged playlist.&lt;/p&gt;
-&lt;p&gt;
-Additionally, our final project required us to deploy our service onto a webserver which was Azure for our team. However, due to Spotify&amp;#39;s API limits the project is no longer publicly available however the source code is provided above for interested users to deploy themselves.&lt;/p&gt;
-&lt;div id=&#34;outline-container-headline-2&#34; class=&#34;outline-6&#34;&gt;
-&lt;h6 id=&#34;headline-2&#34;&gt;
-Technologies used: Docker, NodeJS, Handlebars, PostgresSQL
-&lt;/h6&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</content>
+      <guid>http://localhost:1313/projects/music-merge/</guid>
+      <description>&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;&#xA;&lt;h2 id=&#34;headline-1&#34;&gt;&#xA;&lt;a href=&#34;https://github.com/CSCI-3308-Group-014-06-Final-Project/Music-Merge&#34;&gt;View Source Code and Documentation Here!&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;&#xA;&lt;p&gt;For the final project in CU Boulder&amp;#39;s CSCI 3308 class me and a team of 5 others utilized the public Spotify API in order to help users manage their playlists better in a simple frontend. The Spotify app does have utilities to merge two playlists but we extend this functionality to multiple playlists and provide settings for users to set attributes for their next merged playlist.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

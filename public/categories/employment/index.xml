@@ -2,51 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Employment on Daniel Alemayehu</title>
-    <link>https://dtalemayehu01.github.io/categories/employment/</link>
+    <link>http://localhost:1313/categories/employment/</link>
     <description>Recent content in Employment on Daniel Alemayehu</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <copyright>© 2025 Daniel Alemayehu</copyright>
-    <lastBuildDate>Tue, 02 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dtalemayehu01.github.io/categories/employment/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/employment/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Safer Scientific Computing In Rust</title>
-      <link>https://dtalemayehu01.github.io/projects/cu-spur-rust/</link>
+      <link>http://localhost:1313/projects/cu-spur-rust/</link>
       <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://dtalemayehu01.github.io/projects/cu-spur-rust/</guid>
-      <description>&lt;p&gt;
-In the CU SPUR program I worked with Professor Jed Brown to investigate the capabilities of the Rust programming language in the field of Scientific Computation through analyzing rootfinding/optimization libraries in C, comparing them to the similar libraries in Rust, and then taking advantage of the FFI to combine the capabilities of current C libraries and the security and semantic clarity of Rust libraries.&lt;/p&gt;
-&lt;p&gt;
-To study scientific computation in both languages we analyzed the Cohesive Zone problem which describes how materials respond with adhesives under certain amounts of internal force. In the diagram below we have a simple depicition of the cohesive zone phenomenon. The important note below is that materials don&amp;#39;t immediately split apart but slightly deform when pulled apart until the adhesive is unable to hold the materials together creating a &amp;#34;snap-back&amp;#34; effect where the material returns to its original state. The point right before this snap-back is our stable equilibrium we sought to identify in our iterative solving methods.&lt;/p&gt;</description>
-      <content>
-&lt;p&gt;
-In the CU SPUR program I worked with Professor Jed Brown to investigate the capabilities of the Rust programming language in the field of Scientific Computation through analyzing rootfinding/optimization libraries in C, comparing them to the similar libraries in Rust, and then taking advantage of the FFI to combine the capabilities of current C libraries and the security and semantic clarity of Rust libraries.&lt;/p&gt;
-&lt;p&gt;
-To study scientific computation in both languages we analyzed the Cohesive Zone problem which describes how materials respond with adhesives under certain amounts of internal force. In the diagram below we have a simple depicition of the cohesive zone phenomenon. The important note below is that materials don&amp;#39;t immediately split apart but slightly deform when pulled apart until the adhesive is unable to hold the materials together creating a &amp;#34;snap-back&amp;#34; effect where the material returns to its original state. The point right before this snap-back is our stable equilibrium we sought to identify in our iterative solving methods.&lt;/p&gt;
-&lt;p&gt;
-&lt;img src=&#34;cohesive-model.png&#34; alt=&#34;cohesive-model.png&#34; title=&#34;cohesive-model.png&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;
-In our figure below we plot in python a steadily rising material response which represents an increasing force on a material and two different approaches to identifying our equilibrium solution. Since our CZM problem model has an analytic integral we can rewrite our problem as an optimization problem to identify our equilibrium solution, reported as a green star. Another approach is our traditional Newton&amp;#39;s root finding method that finds the equilibrium root of the difference between material response and our cohesive zone response. One critical aspect of the graph to note is the &amp;#34;jump&amp;#34; in equilibrium solutions that occur which resembles that &amp;#34;snap-back&amp;#34; of the material once the cohesive zone no longer holds the two materials together. This area also has difficulty converging about the equilibrium solution as the unstable equilibrium is close enough to the equilbrium solution as to report a false equilbrium.&lt;/p&gt;
-&lt;img src=&#34;czm_plt.gif&#34; alt=&#34;czm_plt.gif&#34; title=&#34;czm_plt.gif&#34; align=&#34;left&#34; width=&#34;50%&#34;/&gt;
-&lt;img src=&#34;czm_opt.gif&#34; alt=&#34;czm_opt.gif&#34; title=&#34;czm_opt.gif&#34; align=&#34;right&#34; width=&#34;50%&#34;/&gt;
-&lt;p&gt;
-I worked with two different libraries to model the CZM problem in Rust. My first approach was in pure Rust with the Argmin library. Source code about our model can be found &lt;a href=&#34;https://github.com/DTAlemayehu01/Cohesive-Zone-Argmin-Mirror&#34;&gt;here&lt;/a&gt;. Pure Rust has a variety of numerous advantages like traits, generics, and advanced compiler errors to assist end-users in developing rust code in a clearer and easier manner. However, Rust&amp;#39;s ecosystem remains immature for scientific computation. As an example, Argmin has an issue open for in-place math traits to allow for computation with \(\Theta(1)\) space complexity.&lt;/p&gt;
-&lt;p&gt;
-My second approach to modeling the CZM problem was integrating PETSC-rs with Argmin traits. PETSC-rs is a binding library that provides a Rust interface to the C library PETSC. An example of mixing C and Rust libraries I wrote can be found &lt;a href=&#34;https://github.com/DTAlemayehu01/petsc-rs-cohesive-zone-examples-mirror&#34;&gt;here&lt;/a&gt;. Now while we do have the advantage of the more mature PETSC library we lose out on some of the helpful Rust debugging messages that help users quickly understand a library and now requiring us to dive into traditional C debugging to understand the issues in our code.&lt;/p&gt;
-&lt;p&gt;
-As a part of this experience I also gave talks regarding this topic at the Rust Scientific Computing Workshop for 2024 and for CU SPUR. Below I have a video of a talk about Rootfinding in Rust I gave with another Undergraduate Research I worked with, Owen White.&lt;/p&gt;
-&lt;p&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/BNnKtNaslXQ?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
-&lt;/p&gt;
-&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-6&#34;&gt;
-&lt;h6 id=&#34;headline-1&#34;&gt;
-Technologies used: Rust, Python, C
-&lt;/h6&gt;
-&lt;/div&gt;
-</content>
+      <guid>http://localhost:1313/projects/cu-spur-rust/</guid>
+      <description>&lt;p&gt;&#xA;In the CU SPUR program I worked with Professor Jed Brown to investigate the capabilities of the Rust programming language in the field of Scientific Computation through analyzing rootfinding/optimization libraries in C, comparing them to the similar libraries in Rust, and then taking advantage of the FFI to combine the capabilities of current C libraries and the security and semantic clarity of Rust libraries.&lt;/p&gt;&#xA;&lt;p&gt;&#xA;To study scientific computation in both languages we analyzed the Cohesive Zone problem which describes how materials respond with adhesives under certain amounts of internal force. In the diagram below we have a simple depicition of the cohesive zone phenomenon. The important note below is that materials don&amp;#39;t immediately split apart but slightly deform when pulled apart until the adhesive is unable to hold the materials together creating a &amp;#34;snap-back&amp;#34; effect where the material returns to its original state. The point right before this snap-back is our stable equilibrium we sought to identify in our iterative solving methods.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

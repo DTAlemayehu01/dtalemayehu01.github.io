@@ -5,9 +5,8 @@
     <link>http://localhost:1313/blog/</link>
     <description>Recent content in Blogs on Daniel Alemayehu</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <copyright>© 2025 Daniel Alemayehu</copyright>
-    <lastBuildDate></lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

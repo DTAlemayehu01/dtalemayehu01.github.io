@@ -1,5 +1,5 @@
 ---
-title: "CEM Fall 2024 Article"
+title: "CEM Spring 2025 Article"
 date: 2025-05-10
 draft: false
 categories:

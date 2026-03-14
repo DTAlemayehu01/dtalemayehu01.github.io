@@ -1,0 +1,7 @@
+figcaption a {
+	color: var(--background);
+}
+
+.figure-number {
+  display: none;
+}

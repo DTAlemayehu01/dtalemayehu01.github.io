@@ -7,14 +7,14 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© 2025 Daniel Alemayehu</copyright>
-    <lastBuildDate>Wed, 11 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>You Should Have a Blog</title>
+      <title>You Should Have A Blog</title>
       <link>http://localhost:1313/blog/you-should-have-a-blog/</link>
-      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/you-should-have-a-blog/</guid>
-      <description>&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;&#xA;&lt;h2 id=&#34;headline-1&#34;&gt;&#xA;Yo! Hey! Hiya! Thanks for comin&amp;#39;, great to see you! &#xA;&lt;/h2&gt;&#xA;&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;&#xA;&lt;p&gt;Without a doubt one of the hardest things to do is to start something. Whether that&amp;#39;s a new homework project, an awesome software idea, an interesting writing article, or even this very blog &lt;sup class=&#34;footnote-reference&#34;&gt;&lt;a id=&#34;footnote-reference-1&#34; href=&#34;#footnote-1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. I&amp;#39;ve personally found I have to be weary of getting stuck in a perpetual &amp;#34;ideation loop&amp;#34; where I continually think and think and think about the concept of starting and how I should start as opposed to actually acting on the concept. Or in this case writing (almost all of the progress on this post was made in the last week).&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;yo-hey-hiya-thanks-for-comin-great-to-see-you&#34;&gt;Yo! Hey! Hiya!&#xA;Thanks for comin’, great to see you!&lt;/h2&gt;&#xA;&lt;p&gt;Without a doubt one of the hardest things to do is to start&#xA;something. Whether that’s a new homework project, an awesome software&#xA;idea, an interesting writing article, or even this very blog&lt;a&#xA;href=&#34;#fn1&#34; class=&#34;footnote-ref&#34; id=&#34;fnref1&#34;&#xA;role=&#34;doc-noteref&#34;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt;. I’ve personally found I have to be&#xA;weary of getting stuck in a perpetual “ideation loop” where I&#xA;continually think and think and think about the concept of starting and&#xA;how I should start as opposed to actually acting on the concept. Or in&#xA;this case writing (almost all of the progress on this post was made in&#xA;the last week).&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -4,6 +4,13 @@ title = 'Daniel Alemayehu'
 theme = 'terminal'
 pagination.pagerSize = 5
 
+[markup]
+defaultMarkdownHandler = "pandoc"
+
+[security]
+[security.exec]
+allow = ['^pandoc$']
+
 [params]
   favicon = "favicon.png"
 

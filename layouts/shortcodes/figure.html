@@ -2,6 +2,7 @@
 	<img src="{{ .Get "src" | safeURL }}"
 			{{ with .Get "alt" }} alt="{{ . | plainify }}" {{ end }} 
 			{{- with .Get "width" }} width="{{ . }}"{{ end -}}
+			{{- with .Get "style" }} style="{{ . }}"{{ end -}}
 	/>
 	<figcaption>
 		{{ .Inner }}</figcaption>

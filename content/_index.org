@@ -5,16 +5,17 @@ title = 'The Home Page'
 +++
 * Welcome!
 
-#+attr_html: :width 50% :height 50%
+#+attr_html: :width 50% 
+#+attr_html: :class center
 [[/images/about_me_img.jpeg]]
 
 Hi! My name is Daniel Alemayehu and I am an undergraduate honors student at the University of Colorado, Boulder studying Computer Science and Applied Mathematics. I'm currently a CIRES Junior Data Manager working at NOAA and an undergraduate researcher with the Lladser group working on graph theory and probability. My interests presently reside in computational and mathematical applications in the fields of physics, biology, machine learning, and quantum engineering!
 
-In my previous role as a CU Summer Undergraduate Researcher I explored Safer-Scientific Computation in Rust and explored the future of scientific computation both within Rust and its ecosystem and through Rust FFI interactions with C libraries. In that same role I also presentations with my coworker regarding the applications of Rust in scientific computation. I am also well versed in a variety of other languages like Python and Javascript and a variety of developer platforms like Linux and Git.
+In my previous role as a CU Summer Undergraduate Researcher I explored Safer-Scientific Computation in Rust and explored the future of scientific computation both within Rust and its ecosystem and through Rust FFI interactions with C libraries. In that same role I also presentations with my coworker regarding the applications of Rust in scientific computation. I am also well versed in a variety of other languages like Python and Javascript and a variety of developer tooling like Linux and Git.
 
-In my free time I have a variety of activities I enjoy! I try to stay active with Taekwondo and Snowboarding! I also like engaging with all sorts of media (books, TV, video games, music) and like to reflect on the experiences from playing them by writing and talking about them!
+In my free time I have a variety of activities I enjoy! I try to stay active with Taekwondo and Snowboarding! I also like engaging with all sorts of media (books, TV, video games, music) and like to reflect on the experiences from playing them by writing and talking about them! I've also recently gotten into blogging as well! Checkout my blog at the top and some personally inspiring blogs down below!
 
-Below I have some information about my primary system and my dotfiles are linked [[https://github.com/DTAlemayehu01/dotfiles][here]]!
+I also have some information about my primary system and my dotfiles are linked [[https://github.com/DTAlemayehu01/dotfiles][here]]!
 
 * My System
 #+begin_src
@@ -44,6 +45,16 @@ Below I have some information about my primary system and my dotfiles are linked
                                          Locale: en_US.UTF-8
 
 #+end_src
+
+* Cool Blogs and Content!
+Discovering novel content is actually [[https://ericmurphy.xyz/blog/discoverability/][pretty difficult] due to algorithmic bias so a common practice is to feature a section linking to a variety of inspirations for interested viewers to further explore. Consider this a list of websites, creators, and posts I've taken much interest and inspiration from! Matter of fact, you should follow down the websites they link!
+
+- People and Blogs (treasure trove of blogs): https://peopleandblogs.com/?ref=weekly-thing
+- Eric Murphy: https://ericmurphy.xyz/links/
+- XKCD (naturally): https://xkcd.com/
+- GenZSocrates: https://genzsocrates.substack.com/
+- TheLinuxExperiment: https://mastodon.social/@thelinuxEXP
+- Spyware Watchdog: https://spyware.neocities.org/misc
 
 * Other Tools
 /*Hyprland*/:

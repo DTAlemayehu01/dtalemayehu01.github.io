@@ -55,6 +55,7 @@ Discovering novel content is actually [[https://ericmurphy.xyz/blog/discoverabil
 - GenZSocrates: https://genzsocrates.substack.com/
 - TheLinuxExperiment: https://mastodon.social/@thelinuxEXP
 - Spyware Watchdog: https://spyware.neocities.org/misc
+- Micah Bird: https://www.micahbird.com/
 
 * Other Tools
 /*Hyprland*/:

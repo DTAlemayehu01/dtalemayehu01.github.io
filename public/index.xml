@@ -6,9 +6,16 @@
     <description>Recent content in The Home Page on Daniel Alemayehu</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>© 2025 Daniel Alemayehu</copyright>
+    <copyright>© 2026 Daniel Alemayehu</copyright>
     <lastBuildDate>Sun, 15 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Privacy Policy</title>
+      <link>http://localhost:1313/privacy/</link>
+      <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/privacy/</guid>
+      <description>&lt;h2 id=&#34;privacy-policy&#34;&gt;Privacy Policy&lt;/h2&gt;&#xA;&lt;p&gt;Interesting&amp;hellip; a privacy policy on a personal blog? What could this be?&lt;/p&gt;&#xA;&lt;p&gt;I write a lot about engineering ethics and how engineers should continue to be conscious of the ethical considerations and assumptions of anything they build, this being no exception. &lt;a href=&#34;https://indieweb.org/disclosure&#34;&gt;IndieWeb&lt;/a&gt; provides good justification for privacy policies on personal websites. Anyways, full privacy policy proceeds below.&lt;/p&gt;&#xA;&lt;p&gt;I do not collect any analytics personally on this website, part of the ethos of this website is the appreciation of static simplistic web pages and my lack of investment in the popularity of this website. This is a hobby project. However it&amp;rsquo;s hosted on &lt;a href=&#34;https://docs.github.com/en/site-policy/privacy-policies&#34;&gt;Github Pages&lt;/a&gt; so you&amp;rsquo;re subject to whatever information they decide to collect there. Of course, their privacy policy is terse and lengthy so I&amp;rsquo;d recommend using &lt;a href=&#34;https://tosdr.org/en&#34;&gt;https://tosdr.org/en&lt;/a&gt; to understand what information they collect.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>You Should Have A Blog</title>
       <link>http://localhost:1313/blog/you-should-have-a-blog/</link>

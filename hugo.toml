@@ -4,12 +4,8 @@ title = 'Daniel Alemayehu'
 theme = 'terminal'
 pagination.pagerSize = 5
 
-[markup]
-defaultMarkdownHandler = "pandoc"
-
-[security]
-[security.exec]
-allow = ['^pandoc$']
+[markup.goldmark.renderer]
+unsafe = true
 
 [params]
   favicon = "favicon.png"
@@ -25,7 +21,7 @@ allow = ['^pandoc$']
   showLanguageSelector = false
 
   # set theme to full screen width
-  fullWidthTheme = true
+  fullWidthTheme = false
 
   # center theme with default width
   centerTheme = true

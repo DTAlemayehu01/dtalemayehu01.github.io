@@ -1,7 +1,32 @@
-figcaption a {
-	color: var(--background);
+/*
+figure {
+   display: table;
+   padding: 5px;
+   background-color: #fff;
+   font-size: .875em;
+   
 }
 
-.figure-number {
-  display: none;
+figure img {
+   display: block;
+   max-width: 100%;
+}
+
+figure {
+	display: inline-flex;
+	flex-wrap: wrap;
+}
+
+figcaption {
+	width: min-content;
+	flex: 1;
+}
+
+figure > img {
+	flex: 1 0 100%;
+}
+*/
+
+figcaption a {
+	color: var(--background);
 }

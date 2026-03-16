@@ -47,7 +47,7 @@ I also have some information about my primary system and my dotfiles are linked 
 #+end_src
 
 * Cool Blogs and Content!
-Discovering novel content is actually [[https://ericmurphy.xyz/blog/discoverability/][pretty difficult] due to algorithmic bias so a common practice is to feature a section linking to a variety of inspirations for interested viewers to further explore. Consider this a list of websites, creators, and posts I've taken much interest and inspiration from! Matter of fact, you should follow down the websites they link!
+Discovering novel content is actually [[https://ericmurphy.xyz/blog/discoverability/][pretty difficult]] due to algorithmic bias so a common practice is to feature a section linking to a variety of inspirations for interested viewers to further explore. Consider this a list of websites, creators, and posts I've taken much interest and inspiration from! Matter of fact, you should follow down the websites they link!
 
 - People and Blogs (treasure trove of blogs): https://peopleandblogs.com/?ref=weekly-thing
 - Eric Murphy: https://ericmurphy.xyz/links/

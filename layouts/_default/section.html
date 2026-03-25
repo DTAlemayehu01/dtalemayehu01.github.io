@@ -1,22 +1,35 @@
 {{ define "main" }}
-  <main>
-    {{ .Content }}
-
-    <div class="row">
-    {{ range (.Pages.ByDate).Reverse }}
-      <div class="column">
-        {{ if .Params.Cover }}
-          <a href="{{ .RelPermalink }}"><img src={{ .Params.Cover }} width="90%"></img></a>
-        {{ else }}
-          <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-          {{ .Content | strings.Truncate 450 }}
-          <a class="read-more button inline" href="{{ .RelPermalink }}">{{ $.Site.Params.ReadMore }}</a>
-        {{ end }}
-      </div>
-    {{ end }}
-    </div>
-
-
-		{{ partial "pagination.html" . }}
-  </main>
+<main>
+	{{ .Content }}
+		<div class="gallery">
+			{{ range (.Pages.ByDate).Reverse }}
+				{{ if .Params.Cover }}
+					<div class="gallery__item">
+						<a href="{{ .RelPermalink }}">
+							<img class="gallery__img" src={{ .Params.Cover }}></img>
+						</a>
+						<div class="overlay">
+							<div class="gallery__title">{{ .Title }}</div>
+							<div class="gallery__date">{{ .Date | time.Format ":date_medium" }}</div>
+							<hr class="gallery__hr"></hr>
+							<div class="gallery__caption">
+								<p>{{ .Content | strings.Truncate 200 }}</p>
+							</div>
+						</div>
+					</div>
+				{{ else }}
+					<div class="gallery__item">
+						<h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+						<div>
+						 {{ .Content | strings.Truncate 200 }}
+						</div>
+						<a class="read-more button inline" href="{{ .RelPermalink }}">
+							{{ $.Site.Params.ReadMore }}
+						</a>
+					</div>
+				{{ end }}
+			{{ end }}
+		</div>
+	{{ partial "pagination.html" . }}
+</main>
 {{ end }}

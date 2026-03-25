@@ -68,7 +68,7 @@ figcaption a {
 }
 
 .gallery__title {
-  color: white;
+  color: var(--accent);
   font-size: 1.2rem;
   margin: 0.3em 0em 0em 0.7em;
   font-weight: 900;
@@ -77,7 +77,7 @@ figcaption a {
 }
 
 .gallery__date {
-  color: white;
+  color: var(--accent);
   margin: 0em 0em 0.2em 1em;
 }
 
@@ -90,7 +90,7 @@ figcaption a {
 
 .gallery__caption {
   color: white;
-  font-size: 0.7rem;
+  font-size: 1rem;
   text-align: center;
   margin: 0.2em 1em 0em 1em;
   padding: 0;
@@ -109,7 +109,7 @@ figcaption a {
   object-fit: cover;
   display: block;
   position: absolute;
-  top: 0;
+  top: 25px;
   bottom: 0;
   left: 0;
   right: 0;

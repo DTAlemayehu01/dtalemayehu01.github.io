@@ -8,6 +8,7 @@
 						<a href="{{ .RelPermalink }}">
 							<img class="gallery__img" src={{ .Params.Cover }}></img>
 						</a>
+						<a href="{{ .RelPermalink }}">
 						<div class="overlay">
 							<div class="gallery__title">{{ .Title }}</div>
 							<div class="gallery__date">{{ .Date | time.Format ":date_medium" }}</div>
@@ -16,6 +17,7 @@
 								<p>{{ .Content | strings.Truncate 200 }}</p>
 							</div>
 						</div>
+						</a>
 					</div>
 				{{ else }}
 					<div class="gallery__item">

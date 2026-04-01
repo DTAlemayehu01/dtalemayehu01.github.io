@@ -15,7 +15,7 @@ unsafe = true
   contentTypeName = ""
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 4
+  showMenuItems = 5
 
   # show selector to switch language
   showLanguageSelector = false
@@ -117,3 +117,8 @@ unsafe = true
 	  name = "Privacy"
 	  url = "/privacy"
 	  weight = 40
+	[[languages.en.menu.main]]
+	  identifier = "feeds"
+	  name = "Feeds"
+	  url = "/feeds"
+	  weight = 50

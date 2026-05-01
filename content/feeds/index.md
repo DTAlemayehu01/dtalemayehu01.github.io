@@ -15,7 +15,7 @@ Want to stay up to date on things? Well I don't believe in newsletters so here's
 
 ## Fediverse/Bluesky {#fediverse-bluesky}
 
-There's also an Fediverse/Bluesky Bridge as well to follow!
+There's also a Fediverse/Bluesky Bridge to follow as well!
 
 -   [Bluesky](https://bsky.app/profile/dtalemayehu01.github.io.web.brid.gy)
 -   Fediverse: @dtalemayehu01.github.io@web.brid.gy

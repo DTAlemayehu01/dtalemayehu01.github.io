@@ -1,5 +1,5 @@
 baseURL = 'https://dtalemayehu01.github.io/'
-languageCode = 'en-us'
+locale = 'en-us'
 title = 'Daniel Alemayehu'
 theme = 'terminal'
 pagination.pagerSize = 5
@@ -63,6 +63,9 @@ unsafe = true
   # Example format, with date, time, and timezone abbreviation:
   # dateFormat = "2006-01-02 3:04:06 PM MST"
 
+[privacy]
+  [privacy.instagram]
+    simple = true
 
 [params.twitter]
   # set Twitter handles for Twitter cards
@@ -73,7 +76,7 @@ unsafe = true
 
 [languages]
   [languages.en]
-    languageName = "English"
+    label = "English"
     title = "Daniel Alemayehu"
     copyright = "© 2026 Daniel Alemayehu"
 

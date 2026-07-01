@@ -1,7 +1,7 @@
 +++
 title = "Dreaming of Money: thekumarmethod"
-date = 2026-06-27
-draft = true
+date = 2026-06-30
+draft = false
 +++
 
 ## Since I have Written More Than 1 Thing Can I be Considered a Writer? (Plus stats!)[^fn:1] {#since-i-have-written-more-than-1-thing-can-i-be-considered-a-writer--plus-stats}
